@@ -11563,3 +11563,1569 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.16-09.10.20:308][934]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2022.09.16-09.10.47:243][156]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2022.09.16-09.10.57:075][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.16-09.17.03:090][346]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.17.03:090][346]r.PostProcessAAQuality = "2"
+[2022.09.16-09.17.03:090][346]Cmd: r.TextureStreaming 0
+[2022.09.16-09.17.03:090][346]r.TextureStreaming = "0"
+[2022.09.16-09.17.08:643][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.16-09.17.09:659][663]LogSlate: Window 'Save Content' being destroyed
+[2022.09.16-09.17.09:683][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/blockouttests" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/blockouttests.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-09.17.09:690][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.16-09.17.10:180][663]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/blockouttests3C084FB541BD8E4061684CB16B6526EC.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/blockouttests.umap'
+[2022.09.16-09.17.10:190][663]LogFileHelpers: Saving map 'blockouttests' took 0.507
+[2022.09.16-09.17.10:202][663]AssetCheck: New page: Asset Save: blockouttests
+[2022.09.16-09.17.10:202][663]LogContentValidation: Display: Validating World /Game/Levels/blockouttests.blockouttests
+[2022.09.16-09.46.50:913][470]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.16-09.46.50:927][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.16-09.46.50:928][470]PIE: New page: PIE session: blockouttests (16 Sep 2022, 11:46:50)
+[2022.09.16-09.46.50:928][470]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_blockouttests
+[2022.09.16-09.46.51:082][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153932s)
+[2022.09.16-09.46.51:083][470]LogAIModule: Creating AISystem for world blockouttests
+[2022.09.16-09.46.51:083][470]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2022.09.16-09.46.51:083][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/blockouttests.blockouttests to /Game/Levels/UEDPIE_0_blockouttests.blockouttests (0.155788s)
+[2022.09.16-09.46.51:090][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.16-09.46.51:093][470]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.16-09.46.51:093][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.16-09.46.51:093][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.16-09.46.51:094][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.16-09.46.51:094][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.16-09.46.51:094][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.16-09.46.51:094][470]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.16-09.46.51:101][470]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.16-09.46.51:101][470]LogAudioMixer: Display: 1: FrontRight
+[2022.09.16-09.46.51:108][470]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.16-09.46.51:110][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.16-09.46.51:110][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.16-09.46.51:110][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.16-09.46.51:111][470]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.16-09.46.51:111][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.16-09.46.51:111][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.16-09.46.51:113][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.16-09.46.51:113][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.16-09.46.51:113][470]LogInit: FAudioDevice initialized.
+[2022.09.16-09.46.51:113][470]LogAudio: Display: Audio Device (ID: 12) registered with world 'blockouttests'.
+[2022.09.16-09.46.51:127][470]LogLoad: Game class is 'GameModeBase'
+[2022.09.16-09.46.51:139][470]LogWorld: Bringing World /Game/Levels/UEDPIE_0_blockouttests.blockouttests up for play (max tick rate 120) at 2022.09.16-10.46.51
+[2022.09.16-09.46.51:140][470]LogWorld: Bringing up level for play took: 0.012591
+[2022.09.16-09.46.51:140][470]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.09.16-09.46.51:144][470]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.09.16-09.46.51:144][470]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.09.16-09.46.51:146][470]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:146][470]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:146][470]PIE: Server logged in
+[2022.09.16-09.46.51:147][470]PIE: Play in editor total start time 0.22 seconds.
+[2022.09.16-09.46.51:289][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:289][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:289][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:289][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:290][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:290][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:290][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:290][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:290][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:291][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:291][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:291][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:291][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:291][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:292][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:292][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:292][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:292][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:292][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:293][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.51:293][471]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.51:293][471]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:549][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:550][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:550][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:550][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:551][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:551][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:551][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:551][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:551][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:551][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:552][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:552][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:552][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:552][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:553][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:553][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:553][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:553][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:553][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:553][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:554][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:554][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.52:554][472]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.52:554][472]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:614][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:614][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:614][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:614][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:615][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:615][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:615][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:615][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:616][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:616][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:616][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:616][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:616][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:616][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:617][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:617][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:617][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:617][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:617][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:618][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:618][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:618][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:618][473]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:618][473]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:978][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:978][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:979][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:979][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:979][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:979][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:979][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:979][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:980][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:980][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:980][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:980][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:981][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:981][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:982][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:982][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:982][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:982][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:982][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:982][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.54:983][474]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.54:983][474]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:369][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:369][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:370][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:370][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:370][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:370][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:370][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:370][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:371][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:371][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:371][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:371][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:372][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:372][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:372][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:372][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:372][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:372][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:373][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:373][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:373][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:373][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.56:374][475]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.56:374][475]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:609][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:609][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:609][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:609][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:610][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:610][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:610][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:610][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:611][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:611][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:611][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:611][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:612][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:612][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:613][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:613][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:613][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:613][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:613][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:613][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:614][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:614][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.57:614][476]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.57:614][476]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:050][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:050][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:050][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:050][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:051][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:051][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:051][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:051][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:051][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:051][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:052][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:052][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:052][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:052][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:053][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:053][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:053][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:053][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:053][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:053][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:054][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:054][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.46.59:054][477]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.46.59:054][477]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:474][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:474][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:474][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:474][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:475][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:475][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:475][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:475][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:475][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:475][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:476][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:476][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:476][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:476][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:477][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:477][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:477][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:477][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:477][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:477][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:478][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:478][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.00:478][478]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.00:478][478]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:926][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:926][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:926][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:926][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:927][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:927][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:927][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:927][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:928][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:928][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:928][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:928][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:928][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:928][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:929][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:929][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:929][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:929][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:930][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:930][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:930][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:930][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.01:930][479]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.01:930][479]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:353][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:353][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:354][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:354][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:354][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:354][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:354][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:354][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:355][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:355][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:355][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:355][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:356][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:356][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:356][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:356][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:356][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:356][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:357][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:357][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:357][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:357][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.03:357][480]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.03:358][480]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:773][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:773][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:773][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:773][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:773][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:774][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:774][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:774][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:774][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:774][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:775][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:775][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:775][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:775][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:776][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:776][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:776][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:776][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:776][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:776][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:777][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:777][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.04:777][481]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.04:777][481]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:191][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:191][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:192][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:192][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:192][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:192][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:193][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:193][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:193][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:193][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:193][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:194][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:194][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:194][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:194][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:194][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:195][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:195][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:195][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:195][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:195][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:196][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.06:196][482]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.06:196][482]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:612][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:612][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:613][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:613][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:613][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:613][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:613][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:614][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:614][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:614][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:614][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:614][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:615][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:615][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:615][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:615][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:615][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:615][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:616][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:616][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:616][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:616][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.07:617][483]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.07:617][483]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:891][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:891][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:891][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:891][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:892][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:892][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:892][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:892][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:892][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:892][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:893][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:893][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:893][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:893][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:894][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:894][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:894][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:894][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:894][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:894][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:895][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:895][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.08:895][484]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.08:895][484]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:175][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:175][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:175][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:176][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:176][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:176][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:176][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:176][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:177][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:177][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:177][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:177][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:178][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:178][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:178][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:178][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:178][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:178][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:179][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:179][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:179][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:179][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.10:180][485]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.10:180][485]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:473][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:473][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:473][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:473][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:474][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:474][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:474][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:474][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:474][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:474][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:475][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:475][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:475][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:475][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:476][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:476][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:476][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:476][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:476][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:476][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:477][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:477][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.11:477][486]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.11:477][486]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:827][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:827][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:827][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:827][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:828][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:828][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:828][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:828][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:828][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:828][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:829][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:829][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:829][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:829][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:830][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:830][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:830][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:830][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:830][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:830][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:831][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:831][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.12:831][487]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.12:831][487]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:255][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:255][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:255][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:255][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:256][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:256][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:256][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:256][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:256][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:256][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:257][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:257][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:257][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:257][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:258][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:258][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:258][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:258][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:258][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:258][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:259][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:259][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.14:259][488]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.14:259][488]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:687][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:687][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:688][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:688][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:688][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:688][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:688][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:688][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:689][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:689][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:689][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:689][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:689][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:690][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:690][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:690][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:690][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:690][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:691][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:691][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:691][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:691][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.15:692][489]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.15:692][489]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:117][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:117][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:117][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:117][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:117][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:117][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:118][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:118][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:118][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:118][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:119][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:119][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:119][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:119][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:119][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:120][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:120][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:120][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:120][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:120][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:121][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:121][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.17:121][490]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.17:121][490]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:547][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:547][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:548][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:548][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:548][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:548][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:549][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:549][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:549][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:549][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:549][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:549][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:550][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:550][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:550][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:550][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:551][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:551][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:551][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:551][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:551][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:551][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.18:552][491]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.18:552][491]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:977][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:978][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:978][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:978][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:978][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:978][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:979][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:979][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:979][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:979][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:980][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:980][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:980][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:980][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:980][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:980][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:981][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:981][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:981][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:981][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:981][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:982][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.19:982][492]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.19:982][492]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:409][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:409][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:410][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:410][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:410][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:410][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:410][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:410][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:411][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:411][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:411][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:411][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:413][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:413][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:413][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:413][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:413][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:413][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:414][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:414][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:414][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:414][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:415][493]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.47.21:415][493]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.47.21:446][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.47.21:446][493]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_blockouttests
+[2022.09.16-09.47.21:447][493]Cmd: t.MaxFPS 120.0
+[2022.09.16-09.47.21:447][493]t.MaxFPS = "120"
+[2022.09.16-09.47.21:447][493]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.16-09.47.21:447][493]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.16-09.47.21:447][493]LogWorld: UWorld::CleanupWorld for blockouttests, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.47.21:450][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.47.25:076][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.16-09.47.25:093][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.47.25:100][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.47.25:101][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.47.25:102][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.47.25:120][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.16-09.47.25:166][494]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.09.16-09.48.31:546][129]LogEditorViewport: Clicking on Actor (LMB): Camera_point_360_C (Camera_point_360)
+[2022.09.16-09.48.52:883][272]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.16-09.48.52:896][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.16-09.48.52:896][272]PIE: New page: PIE session: blockouttests (16 Sep 2022, 11:48:52)
+[2022.09.16-09.48.52:896][272]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_blockouttests
+[2022.09.16-09.48.53:013][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117216s)
+[2022.09.16-09.48.53:014][272]LogAIModule: Creating AISystem for world blockouttests
+[2022.09.16-09.48.53:014][272]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2022.09.16-09.48.53:014][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/blockouttests.blockouttests to /Game/Levels/UEDPIE_0_blockouttests.blockouttests (0.118822s)
+[2022.09.16-09.48.53:049][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.09.16-09.48.53:053][272]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.16-09.48.53:053][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.16-09.48.53:053][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.16-09.48.53:054][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.16-09.48.53:054][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.16-09.48.53:054][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.16-09.48.53:054][272]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.16-09.48.53:061][272]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.16-09.48.53:061][272]LogAudioMixer: Display: 1: FrontRight
+[2022.09.16-09.48.53:066][272]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.16-09.48.53:066][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.16-09.48.53:066][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.16-09.48.53:066][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.16-09.48.53:067][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.16-09.48.53:067][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.16-09.48.53:067][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.16-09.48.53:069][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.16-09.48.53:069][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.16-09.48.53:069][272]LogInit: FAudioDevice initialized.
+[2022.09.16-09.48.53:069][272]LogAudio: Display: Audio Device (ID: 13) registered with world 'blockouttests'.
+[2022.09.16-09.48.53:078][272]LogLoad: Game class is 'GameModeBase'
+[2022.09.16-09.48.53:088][272]LogWorld: Bringing World /Game/Levels/UEDPIE_0_blockouttests.blockouttests up for play (max tick rate 120) at 2022.09.16-10.48.53
+[2022.09.16-09.48.53:089][272]LogWorld: Bringing up level for play took: 0.010012
+[2022.09.16-09.48.53:089][272]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.09.16-09.48.53:111][272]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.09.16-09.48.53:111][272]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.09.16-09.48.53:112][272]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:112][272]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:112][272]PIE: Server logged in
+[2022.09.16-09.48.53:113][272]PIE: Play in editor total start time 0.217 seconds.
+[2022.09.16-09.48.53:303][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:304][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:304][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:304][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:305][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:305][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:305][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:305][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:305][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:305][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:306][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:306][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:306][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:306][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:307][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:307][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:307][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:307][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:308][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:308][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:308][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:308][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.53:309][273]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.53:309][273]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:394][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:394][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:395][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:395][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:395][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:396][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:396][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:396][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:396][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:396][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:397][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:397][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:397][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:397][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:397][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:398][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:398][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:398][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:398][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:398][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:399][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:399][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.54:399][275]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.54:399][275]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:418][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:418][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:418][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:419][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:419][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:419][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:419][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:419][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:420][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:420][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:420][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:420][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:420][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:420][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:421][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:421][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:421][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:421][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:422][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:422][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:422][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:422][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.55:422][276]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.55:422][276]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:423][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:423][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:423][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:423][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:424][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:424][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:424][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:424][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:425][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:425][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:426][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:426][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:426][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:426][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:426][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:426][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:427][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:427][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:427][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:427][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:428][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:428][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.56:428][277]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.56:428][277]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:447][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:447][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:447][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:447][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:448][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:448][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:448][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:448][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:448][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:448][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:449][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:449][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:449][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:449][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:450][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:450][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:451][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:451][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:451][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:451][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:451][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:451][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:452][278]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:452][278]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:576][279]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:576][279]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:576][279]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:576][279]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:577][279]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:577][279]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:577][279]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.48.57:577][279]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.48.57:616][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.48.57:616][279]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_blockouttests
+[2022.09.16-09.48.57:616][279]Cmd: t.MaxFPS 120.0
+[2022.09.16-09.48.57:616][279]t.MaxFPS = "120"
+[2022.09.16-09.48.57:616][279]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.16-09.48.57:616][279]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.16-09.48.57:616][279]LogWorld: UWorld::CleanupWorld for blockouttests, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.48.57:618][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.49.00:422][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.16-09.49.00:432][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.49.00:439][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.49.00:440][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.49.00:441][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.49.00:453][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.16-09.49.00:477][280]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.09.16-09.49.02:977][391]Cmd: TRANSACTION UNDO
+[2022.09.16-09.49.02:992][391]LogEditorTransaction: Undo Move Actors
+[2022.09.16-09.49.11:348][818]Cmd: TRANSACTION UNDO
+[2022.09.16-09.49.11:348][818]LogEditorTransaction: Undo Rotate Actors
+[2022.09.16-09.49.13:609][933]Cmd: TRANSACTION UNDO
+[2022.09.16-09.49.13:609][933]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.16-09.49.18:741][217]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.16-09.49.18:754][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.16-09.49.18:754][217]PIE: New page: PIE session: blockouttests (16 Sep 2022, 11:49:18)
+[2022.09.16-09.49.18:754][217]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_blockouttests
+[2022.09.16-09.49.18:866][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111233s)
+[2022.09.16-09.49.18:866][217]LogAIModule: Creating AISystem for world blockouttests
+[2022.09.16-09.49.18:867][217]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2022.09.16-09.49.18:867][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/blockouttests.blockouttests to /Game/Levels/UEDPIE_0_blockouttests.blockouttests (0.112572s)
+[2022.09.16-09.49.18:874][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.09.16-09.49.18:876][217]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.16-09.49.18:876][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.16-09.49.18:876][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.16-09.49.18:877][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.16-09.49.18:877][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.16-09.49.18:877][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.16-09.49.18:877][217]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.16-09.49.18:884][217]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.16-09.49.18:884][217]LogAudioMixer: Display: 1: FrontRight
+[2022.09.16-09.49.18:889][217]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.16-09.49.18:889][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.16-09.49.18:889][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.16-09.49.18:890][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.16-09.49.18:890][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.16-09.49.18:890][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.16-09.49.18:890][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.16-09.49.18:891][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.16-09.49.18:891][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.16-09.49.18:891][217]LogInit: FAudioDevice initialized.
+[2022.09.16-09.49.18:891][217]LogAudio: Display: Audio Device (ID: 14) registered with world 'blockouttests'.
+[2022.09.16-09.49.18:900][217]LogLoad: Game class is 'GameModeBase'
+[2022.09.16-09.49.18:910][217]LogWorld: Bringing World /Game/Levels/UEDPIE_0_blockouttests.blockouttests up for play (max tick rate 120) at 2022.09.16-10.49.18
+[2022.09.16-09.49.18:911][217]LogWorld: Bringing up level for play took: 0.010058
+[2022.09.16-09.49.18:911][217]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.09.16-09.49.18:914][217]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.09.16-09.49.18:914][217]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.09.16-09.49.18:915][217]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.18:915][217]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.18:915][217]PIE: Server logged in
+[2022.09.16-09.49.18:916][217]PIE: Play in editor total start time 0.162 seconds.
+[2022.09.16-09.49.19:111][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:111][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:112][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:112][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:112][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:112][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:113][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:113][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:113][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:113][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:114][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:114][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:114][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:114][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:114][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:114][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:115][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:115][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:115][218]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:115][218]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:126][219]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:126][219]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:507][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:507][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:507][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:507][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:508][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:508][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:508][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:508][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:509][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:509][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:509][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:509][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:509][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:509][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:510][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:510][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:510][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:510][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:511][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:511][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.19:511][220]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.19:511][220]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:710][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:710][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:711][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:711][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:711][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:711][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:712][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:712][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:712][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:712][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:712][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:712][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:713][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:713][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:713][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:713][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:714][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:714][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:714][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:714][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:714][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:714][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.20:715][221]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.20:715][221]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:277][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:278][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:278][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:278][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:278][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:278][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:279][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:279][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:279][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:279][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:280][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:280][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:280][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:280][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:280][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:280][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:281][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:281][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:281][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:281][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:282][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:282][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:282][222]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.24:282][222]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.49.24:306][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.49.24:306][222]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_blockouttests
+[2022.09.16-09.49.24:307][222]Cmd: t.MaxFPS 120.0
+[2022.09.16-09.49.24:307][222]t.MaxFPS = "120"
+[2022.09.16-09.49.24:307][222]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.16-09.49.24:307][222]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.16-09.49.24:307][222]LogWorld: UWorld::CleanupWorld for blockouttests, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.49.24:310][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.49.25:815][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.16-09.49.25:825][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.49.25:831][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.49.25:832][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.49.25:833][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.49.25:835][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.49.25:848][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.16-09.49.25:875][223]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.09.16-09.49.30:410][481]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.09.16-09.49.30:432][481]LogContentBrowser: Creating deferred item: NewWorld
+[2022.09.16-09.49.48:872][772]LogContentBrowser: Attempting asset rename: NewWorld -> Clearing_Forest
+[2022.09.16-09.49.48:949][772]LogContentBrowser: End creating deferred item NewWorld
+[2022.09.16-09.49.51:138][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.09.16-09.49.53:735][897]LogSlate: Window 'Save Content' being destroyed
+[2022.09.16-09.49.53:759][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/blockouttests" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/blockouttests.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-09.49.53:765][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.16-09.49.54:255][897]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/blockouttests59D2F06248EBA2D7ED9DCF90466C7D98.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/blockouttests.umap'
+[2022.09.16-09.49.54:265][897]LogFileHelpers: Saving map 'blockouttests' took 0.506
+[2022.09.16-09.49.54:265][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-09.49.54:271][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.16-09.49.54:274][897]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest540D34044AF8B9B53BF088ACFCAB692F.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.09.16-09.49.54:274][897]LogFileHelpers: Saving map 'Clearing_Forest' took 0.009
+[2022.09.16-09.49.54:295][897]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.09.16-09.49.54:295][897]Cmd: MAP LOAD FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.16-09.49.54:295][897]LightingResults: New page: Lighting Build
+[2022.09.16-09.49.54:295][897]LoadErrors: New page: Loading map: Clearing_Forest.umap
+[2022.09.16-09.49.54:303][897]LogWorld: UWorld::CleanupWorld for blockouttests, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.49.54:304][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.49.54:304][897]MapCheck: New page: Map Check
+[2022.09.16-09.49.54:304][897]LightingResults: New page: Lighting Build
+[2022.09.16-09.49.54:311][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.49.54:335][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.09.16-09.49.54:341][897]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clearing_Forest'.
+[2022.09.16-09.49.54:371][897]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.16-09.49.54:371][897]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.09.16-09.49.54:379][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.16-09.49.54:387][897]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.16-09.49.54:387][897]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2022.09.16-09.49.54:387][897]LogFileHelpers: Loading map 'Clearing_Forest' took 0.092
+[2022.09.16-09.49.54:405][897]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.16-09.49.54:406][897]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.09.16-09.49.54:406][897]LogContentValidation: Display: Validating World /Game/Levels/blockouttests.blockouttests
+[2022.09.16-09.49.54:576][897]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.49.54:576][897]r.PostProcessAAQuality = "2"
+[2022.09.16-09.49.54:576][897]Cmd: r.TextureStreaming 0
+[2022.09.16-09.49.54:576][897]r.TextureStreaming = "0"
+[2022.09.16-09.49.54:585][897]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.49.54:585][897]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.51.04:794][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.09.16-09.51.04:810][217]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/blockouttests.blockouttests
+[2022.09.16-09.51.04:810][217]Cmd: MAP LOAD FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/blockouttests.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.16-09.51.04:810][217]LightingResults: New page: Lighting Build
+[2022.09.16-09.51.04:810][217]LoadErrors: New page: Loading map: blockouttests.umap
+[2022.09.16-09.51.04:835][217]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.51.04:836][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.51.04:836][217]MapCheck: New page: Map Check
+[2022.09.16-09.51.04:836][217]LightingResults: New page: Lighting Build
+[2022.09.16-09.51.04:840][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.51.04:842][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.09.16-09.51.04:842][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'blockouttests'.
+[2022.09.16-09.51.05:034][217]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.51.05:034][217]r.PostProcessAAQuality = "2"
+[2022.09.16-09.51.05:034][217]Cmd: r.TextureStreaming 0
+[2022.09.16-09.51.05:034][217]r.TextureStreaming = "0"
+[2022.09.16-09.51.05:047][217]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.51.05:047][217]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.51.05:232][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.16-09.51.05:232][217]LogAIModule: Creating AISystem for world blockouttests
+[2022.09.16-09.51.05:245][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.09.16-09.51.05:254][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.16-09.51.05:255][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.79ms to complete.
+[2022.09.16-09.51.05:255][217]LogFileHelpers: Loading map 'blockouttests' took 0.444
+[2022.09.16-09.51.37:223][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.16-09.51.37:251][521]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.09.16-09.51.37:252][521]Cmd: MAP LOAD FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.16-09.51.37:252][521]LightingResults: New page: Lighting Build
+[2022.09.16-09.51.37:252][521]LoadErrors: New page: Loading map: Clearing_Forest.umap
+[2022.09.16-09.51.37:257][521]LogWorld: UWorld::CleanupWorld for blockouttests, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.51.37:257][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.51.37:257][521]MapCheck: New page: Map Check
+[2022.09.16-09.51.37:257][521]LightingResults: New page: Lighting Build
+[2022.09.16-09.51.37:266][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.51.37:278][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.16-09.51.37:280][521]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clearing_Forest'.
+[2022.09.16-09.51.37:301][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.16-09.51.37:301][521]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.09.16-09.51.37:308][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.16-09.51.37:316][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.16-09.51.37:317][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2022.09.16-09.51.37:317][521]LogFileHelpers: Loading map 'Clearing_Forest' took 0.065
+[2022.09.16-09.51.46:244][519]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.51.46:244][519]r.PostProcessAAQuality = "2"
+[2022.09.16-09.51.46:244][519]Cmd: r.TextureStreaming 0
+[2022.09.16-09.51.46:244][519]r.TextureStreaming = "0"
+[2022.09.16-09.51.46:355][521]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Engine/Transient.World_5:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.51.46:355][521]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Engine/Transient.World_5:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.51.46:355][521]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Engine/Transient.World_5:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.51.46:355][521]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Engine/Transient.World_5:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.52.32:979][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.16-09.52.33:164][930]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.52.33:164][930]r.PostProcessAAQuality = "2"
+[2022.09.16-09.52.33:164][930]Cmd: r.TextureStreaming 0
+[2022.09.16-09.52.33:164][930]r.TextureStreaming = "0"
+[2022.09.16-09.52.33:172][930]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.52.33:172][930]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.52.33:173][930]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/blockouttests.blockouttests
+[2022.09.16-09.52.33:174][930]Cmd: MAP LOAD FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/blockouttests.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.16-09.52.33:174][930]LightingResults: New page: Lighting Build
+[2022.09.16-09.52.33:174][930]LoadErrors: New page: Loading map: blockouttests.umap
+[2022.09.16-09.52.33:174][930]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.52.33:175][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.52.33:175][930]MapCheck: New page: Map Check
+[2022.09.16-09.52.33:175][930]LightingResults: New page: Lighting Build
+[2022.09.16-09.52.33:180][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.52.33:185][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.09.16-09.52.33:186][930]LogAudio: Display: Audio Device (ID: 1) registered with world 'blockouttests'.
+[2022.09.16-09.52.33:350][930]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.52.33:350][930]r.PostProcessAAQuality = "2"
+[2022.09.16-09.52.33:350][930]Cmd: r.TextureStreaming 0
+[2022.09.16-09.52.33:350][930]r.TextureStreaming = "0"
+[2022.09.16-09.52.33:363][930]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.52.33:363][930]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.52.33:526][930]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.16-09.52.33:526][930]LogAIModule: Creating AISystem for world blockouttests
+[2022.09.16-09.52.33:541][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.09.16-09.52.33:549][930]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.16-09.52.33:549][930]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.253ms to complete.
+[2022.09.16-09.52.33:550][930]LogFileHelpers: Loading map 'blockouttests' took 0.376
+[2022.09.16-09.52.57:974][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Plugins/DynamicVolumetricSky/Blueprints/BP_DynamicVolumetricSky.BP_DynamicVolumetricSky
+[2022.09.16-09.52.59:044][612]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 126 classes and 0 folders.
+[2022.09.16-09.53.01:377][612]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.01:377][612]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.01:423][612]LogSlate: Took 0.026781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.16-09.53.06:534][749]LogSlate: Window 'BP_DynamicVolumetricSky' being destroyed
+[2022.09.16-09.53.06:540][749]LogSlate: Window 'BP_DynamicVolumetricSky' being destroyed
+[2022.09.16-09.53.06:543][749]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.53.06:544][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.53.08:922][872]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.08:922][872]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.12:912][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.09.16-09.53.12:941][104]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.09.16-09.53.12:941][104]Cmd: MAP LOAD FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.16-09.53.12:941][104]LightingResults: New page: Lighting Build
+[2022.09.16-09.53.12:941][104]LoadErrors: New page: Loading map: Clearing_Forest.umap
+[2022.09.16-09.53.12:949][104]LogWorld: UWorld::CleanupWorld for blockouttests, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.53.12:949][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.53.12:949][104]MapCheck: New page: Map Check
+[2022.09.16-09.53.12:949][104]LightingResults: New page: Lighting Build
+[2022.09.16-09.53.12:964][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.53.12:982][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.09.16-09.53.12:985][104]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clearing_Forest'.
+[2022.09.16-09.53.13:006][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.16-09.53.13:006][104]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.09.16-09.53.13:023][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.09.16-09.53.13:031][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.16-09.53.13:031][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2022.09.16-09.53.13:031][104]LogFileHelpers: Loading map 'Clearing_Forest' took 0.090
+[2022.09.16-09.53.18:306][595]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:306][595]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:313][595]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:313][595]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:316][595]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:316][595]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:320][595]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:320][595]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:348][595]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:348][595]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:353][595]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:353][595]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:361][596]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:361][596]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:384][597]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:385][597]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:391][597]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:391][597]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:398][597]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:398][597]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:405][597]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:405][597]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:410][597]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:410][597]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:415][597]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:415][597]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:470][598]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:470][598]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:589][611]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:589][611]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:593][611]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:593][611]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:604][611]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:604][611]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.18:608][611]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.53.18:609][611]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.53.31:455][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:455][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:455][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:455][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:459][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:459][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:459][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:459][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:464][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:464][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:464][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:464][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:470][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:470][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:470][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:470][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:477][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:477][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.31:477][494]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.31:477][494]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.33:607][633]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_1
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.33:607][633]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_1
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.53.33:607][633]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_1
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.09.16-09.53.33:607][633]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_360_C_1
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.09.16-09.54.17:811][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:811][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:811][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:811][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:814][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:814][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:814][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:814][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:819][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:819][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:819][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:819][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:824][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:824][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:824][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:824][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:832][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:832][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:832][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:832][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:837][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:837][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:838][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:838][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:843][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:843][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:843][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:843][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:848][516]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:848][516]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:848][516]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:849][516]r.TextureStreaming = "0"
+[2022.09.16-09.54.17:878][517]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.17:878][517]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.17:878][517]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.17:878][517]r.TextureStreaming = "0"
+[2022.09.16-09.54.18:042][517]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.18:043][517]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.18:043][517]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.18:043][517]r.TextureStreaming = "0"
+[2022.09.16-09.54.18:048][517]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.18:048][517]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.18:048][517]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.18:048][517]r.TextureStreaming = "0"
+[2022.09.16-09.54.18:329][549]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.18:330][549]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.18:330][549]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.18:330][549]r.TextureStreaming = "0"
+[2022.09.16-09.54.18:333][549]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.18:334][549]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.18:334][549]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.18:334][549]r.TextureStreaming = "0"
+[2022.09.16-09.54.18:348][549]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.18:348][549]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.18:348][549]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.18:348][549]r.TextureStreaming = "0"
+[2022.09.16-09.54.18:353][549]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.54.18:353][549]r.PostProcessAAQuality = "2"
+[2022.09.16-09.54.18:353][549]Cmd: r.TextureStreaming 0
+[2022.09.16-09.54.18:354][549]r.TextureStreaming = "0"
+[2022.09.16-09.54.22:430][797]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.16-09.54.22:443][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.16-09.54.22:443][797]PIE: New page: PIE session: Clearing_Forest (16 Sep 2022, 11:54:22)
+[2022.09.16-09.54.22:443][797]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.09.16-09.54.22:452][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008808s)
+[2022.09.16-09.54.22:453][797]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.09.16-09.54.22:453][797]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.09.16-09.54.22:453][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.009861s)
+[2022.09.16-09.54.22:500][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.09.16-09.54.22:510][797]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.16-09.54.22:510][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.16-09.54.22:510][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.16-09.54.22:510][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.16-09.54.22:510][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.16-09.54.22:510][797]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.16-09.54.22:517][797]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.16-09.54.22:517][797]LogAudioMixer: Display: 1: FrontRight
+[2022.09.16-09.54.22:523][797]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.16-09.54.22:523][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.16-09.54.22:523][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.16-09.54.22:523][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.16-09.54.22:523][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.16-09.54.22:523][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.16-09.54.22:523][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.16-09.54.22:524][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.16-09.54.22:524][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.16-09.54.22:524][797]LogInit: FAudioDevice initialized.
+[2022.09.16-09.54.22:524][797]LogAudio: Display: Audio Device (ID: 15) registered with world 'Clearing_Forest'.
+[2022.09.16-09.54.22:535][797]LogLoad: Game class is 'GameModeBase'
+[2022.09.16-09.54.22:536][797]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.09.16-10.54.22
+[2022.09.16-09.54.22:536][797]LogWorld: Bringing up level for play took: 0.001001
+[2022.09.16-09.54.22:536][797]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.09.16-09.54.22:538][797]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.16-09.54.22:538][797]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.16-09.54.22:540][797]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:540][797]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:541][797]PIE: Server logged in
+[2022.09.16-09.54.22:542][797]PIE: Play in editor total start time 0.1 seconds.
+[2022.09.16-09.54.22:648][798]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:648][798]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:661][798]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:661][798]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:663][798]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:663][798]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:665][798]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:665][798]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:667][798]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:667][798]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:669][798]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:669][798]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.22:680][799]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.22:680][799]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:640][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:640][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:643][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:643][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:645][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:645][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:647][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:647][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:649][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:649][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:651][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:652][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:654][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:654][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:656][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:656][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:658][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:658][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:660][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:660][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:662][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:662][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.23:665][800]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.23:665][800]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:612][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:612][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:614][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:614][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:616][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:616][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:620][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:620][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:623][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:623][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:626][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:626][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:629][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:629][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:631][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:631][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:633][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:633][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:635][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:636][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:637][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:638][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:639][801]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.16-09.54.24:640][801]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.16-09.54.24:676][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.54.24:676][801]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.09.16-09.54.24:677][801]Cmd: t.MaxFPS 120.0
+[2022.09.16-09.54.24:677][801]t.MaxFPS = "120"
+[2022.09.16-09.54.24:677][801]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.16-09.54.24:677][801]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.16-09.54.24:677][801]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-09.54.24:677][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.54.26:463][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.16-09.54.26:474][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-09.54.26:488][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-09.54.26:489][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.54.26:490][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.16-09.54.26:492][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-09.54.26:495][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.09.16-09.54.26:522][802]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.09.16-09.55.13:216][ 34]LogEditorViewport: Clicking on Actor (LMB): Camera_point_360_C (Camera_point_360)
+[2022.09.16-09.55.22:231][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.09.16-09.55.23:329][589]LogSlate: Window 'Save Content' being destroyed
+[2022.09.16-09.55.23:361][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-09.55.23:376][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.16-09.55.23:396][589]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_ForestEE7B3A5D4311A5D470613E875CAA8AC7.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.09.16-09.55.23:404][589]LogFileHelpers: Saving map 'Clearing_Forest' took 0.044
+[2022.09.16-09.55.23:416][589]AssetCheck: New page: Asset Save: Clearing_Forest
+[2022.09.16-09.55.23:416][589]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.09.16-09.55.55:095][796]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.55.55:095][796]r.PostProcessAAQuality = "2"
+[2022.09.16-09.55.55:095][796]Cmd: r.TextureStreaming 0
+[2022.09.16-09.55.55:095][796]r.TextureStreaming = "0"
+[2022.09.16-09.56.06:843][988]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.06:843][988]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.06:843][988]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.06:843][988]r.TextureStreaming = "0"
+[2022.09.16-09.56.18:326][728]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.18:326][728]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.18:326][728]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.18:326][728]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:429][419]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:429][419]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:429][419]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:429][419]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:500][424]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:500][424]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:500][424]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:500][424]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:507][424]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:507][424]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:507][424]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:507][424]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:514][424]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:514][424]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:514][424]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:514][424]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:521][424]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:521][424]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:521][424]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:521][424]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:534][425]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:535][425]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:535][425]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:535][425]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:541][425]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:542][425]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:542][425]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:542][425]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:548][425]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:549][425]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:549][425]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:549][425]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:555][425]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:555][425]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:555][425]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:556][425]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:562][425]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:562][425]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:562][425]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:562][425]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:569][425]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:569][425]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:569][425]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:569][425]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:646][427]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:646][427]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:646][427]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:646][427]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:653][427]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:653][427]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:653][427]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:653][427]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:660][427]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:660][427]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:660][427]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:660][427]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:666][427]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:666][427]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:666][427]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:666][427]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:672][427]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:673][427]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:673][427]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:673][427]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:686][428]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:687][428]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:687][428]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:687][428]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:693][428]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:694][428]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:694][428]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:694][428]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:700][428]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:700][428]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:700][428]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:700][428]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:707][428]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:707][428]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:707][428]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:707][428]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:714][428]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:714][428]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:714][428]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:714][428]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:720][428]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:720][428]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:720][428]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:721][428]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:743][430]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:743][430]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:743][430]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:743][430]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:750][430]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:750][430]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:750][430]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:750][430]r.TextureStreaming = "0"
+[2022.09.16-09.56.29:757][430]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.29:757][430]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.29:757][430]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.29:757][430]r.TextureStreaming = "0"
+[2022.09.16-09.56.30:820][512]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.56.30:820][512]r.PostProcessAAQuality = "2"
+[2022.09.16-09.56.30:820][512]Cmd: r.TextureStreaming 0
+[2022.09.16-09.56.30:820][512]r.TextureStreaming = "0"
+[2022.09.16-09.56.30:823][512]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.16-09.56.44:348][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.09.16-09.56.45:207][395]LogSlate: Window 'Save Content' being destroyed
+[2022.09.16-09.56.45:232][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-09.56.45:247][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.16-09.56.45:267][395]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest5177579F40936E65D899A794DB4CA961.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.09.16-09.56.45:277][395]LogFileHelpers: Saving map 'Clearing_Forest' took 0.045
+[2022.09.16-09.56.45:288][395]AssetCheck: New page: Asset Save: Clearing_Forest
+[2022.09.16-09.56.45:288][395]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.09.16-09.57.07:213][806]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.57.07:213][806]r.PostProcessAAQuality = "2"
+[2022.09.16-09.57.07:213][806]Cmd: r.TextureStreaming 0
+[2022.09.16-09.57.07:214][806]r.TextureStreaming = "0"
+[2022.09.16-09.57.16:841][500]Cmd: r.PostProcessAAQuality 2
+[2022.09.16-09.57.16:841][500]r.PostProcessAAQuality = "2"
+[2022.09.16-09.57.16:841][500]Cmd: r.TextureStreaming 0
+[2022.09.16-09.57.16:841][500]r.TextureStreaming = "0"
+[2022.09.16-09.57.18:681][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.16-09.57.19:931][609]LogSlate: Window 'Save Content' being destroyed
+[2022.09.16-09.57.19:955][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-09.57.19:970][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.16-09.57.19:991][609]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_ForestFFB186F54E6F9564F7842397F56A54A6.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.09.16-09.57.19:999][609]LogFileHelpers: Saving map 'Clearing_Forest' took 0.044
+[2022.09.16-09.57.20:010][609]AssetCheck: New page: Asset Save: Clearing_Forest
+[2022.09.16-09.57.20:010][609]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
