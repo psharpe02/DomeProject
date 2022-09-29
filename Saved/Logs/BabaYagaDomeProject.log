@@ -21037,3 +21037,1266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.29-13.48.42:139][785]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
 [2022.09.29-13.48.42:139][785]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
 [2022.09.29-13.48.42:139][785]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.09.29-13.52.05:915][434]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere2)
+[2022.09.29-13.52.34:478][ 91]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere2)
+[2022.09.29-13.52.34:913][114]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.52.36:740][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kitchen_Island)
+[2022.09.29-13.52.37:452][251]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.52.39:040][332]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere2)
+[2022.09.29-13.52.43:620][585]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-13.52.44:387][626]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.52.47:694][810]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-13.52.49:151][889]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere2)
+[2022.09.29-13.52.52:636][ 83]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.52.53:706][142]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere2)
+[2022.09.29-13.52.54:431][181]LogEditorViewport: Clicking on Actor (CTRL LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.53.13:689][172]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/The_Kitchen.The_Kitchen:PersistentLevel.Blockout_Sphere2_5.NODE_AddStaticMeshComponent-0)
+[2022.09.29-13.53.14:039][192]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/The_Kitchen.The_Kitchen:PersistentLevel.Blockout_Sphere2_5.NODE_AddStaticMeshComponent-0)
+[2022.09.29-13.53.16:030][305]Cmd: DELETE
+[2022.09.29-13.53.16:030][305]Cmd: ACTOR DELETE
+[2022.09.29-13.53.16:042][305]LogEditorActor: Deleted Actor: Blockout_Sphere_C
+[2022.09.29-13.53.16:043][305]LogEditorActor: Deleted Actor: Blockout_Sphere_C
+[2022.09.29-13.53.16:209][305]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.09.29-13.53.16:212][305]LogEditorActor: Deleted 2 Actors (0.182 secs)
+[2022.09.29-13.53.24:244][783]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere3)
+[2022.09.29-13.53.35:008][345]Cmd: TRANSACTION UNDO
+[2022.09.29-13.53.35:008][345]LogEditorTransaction: Undo Scale Actors
+[2022.09.29-13.53.35:383][345]LogMaterial: Display: Missing cached shadermap for Feather_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 750842B7974372BC7FFABE327C049304D43D8C94), compiling. 
+[2022.09.29-13.53.35:588][345]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.29-13.53.35:588][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.29-13.53.35:588][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.29-13.53.35:665][346]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.29-13.53.35:665][346]LogShaderCompilers: Display: Total job queries 1468, among them cache hits 1125 (76.63%)
+[2022.09.29-13.53.35:665][346]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 184 distinct outputs (55.26%)
+[2022.09.29-13.53.35:665][346]LogShaderCompilers: Display: RAM used: 1.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2022.09.29-13.53.35:665][346]LogShaderCompilers: Display: ================================================
+[2022.09.29-13.53.35:707][347]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.09.29-13.53.35:707][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.09.29-13.53.35:707][347]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.09.29-13.53.35:707][347]MaterialEditorStats: Texture samplers: 4/16
+[2022.09.29-13.53.35:707][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.29-13.53.35:707][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.29-13.53.35:855][351]60826_Crows_P_MessageLog: System successfully compiled.
+[2022.09.29-13.53.35:904][351]48716_FallinG_Feathers_MessageLog: System successfully compiled.
+[2022.09.29-13.54.25:664][112]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-13.54.26:339][146]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.54.32:011][447]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-13.54.34:077][558]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box51)
+[2022.09.29-13.54.38:092][762]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.54.39:823][858]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box51)
+[2022.09.29-13.54.49:057][322]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.54.50:655][387]LogEditorViewport: Clicking on Actor (CTRL LMB): Blockout_Box_C (Blockout_Box51)
+[2022.09.29-13.55.15:990][686]LogEditorViewport: Clicking on Actor (LMB): Blockout_Tube_C (Blockout_Tube)
+[2022.09.29-13.55.34:130][601]Cmd: TRANSACTION UNDO
+[2022.09.29-13.55.34:130][601]LogEditorTransaction: Undo Scale Actors
+[2022.09.29-13.55.34:475][601]LogMaterial: Display: Missing cached shadermap for Feather_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A2FD8A622DD582E0A87257CCC8CC17620B6ED945), compiling. 
+[2022.09.29-13.55.34:679][601]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.29-13.55.34:679][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.29-13.55.34:679][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.29-13.55.34:796][603]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.09.29-13.55.34:796][603]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.09.29-13.55.34:796][603]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.09.29-13.55.34:796][603]MaterialEditorStats: Texture samplers: 4/16
+[2022.09.29-13.55.34:796][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.29-13.55.34:796][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.29-13.55.34:986][607]60826_Crows_P_MessageLog: System successfully compiled.
+[2022.09.29-13.55.35:041][607]48716_FallinG_Feathers_MessageLog: System successfully compiled.
+[2022.09.29-13.55.35:085][608]Cmd: TRANSACTION UNDO
+[2022.09.29-13.55.35:085][608]LogEditorTransaction: Undo Scale Actors
+[2022.09.29-13.55.35:429][608]LogMaterial: Display: Missing cached shadermap for Feather_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 36F09BBA2381A7685758C6D90E7E0DFC74213C61), compiling. 
+[2022.09.29-13.55.35:604][608]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.29-13.55.35:604][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.29-13.55.35:604][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.29-13.55.35:703][610]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.09.29-13.55.35:703][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.09.29-13.55.35:703][610]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.09.29-13.55.35:703][610]MaterialEditorStats: Texture samplers: 4/16
+[2022.09.29-13.55.35:703][610]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.29-13.55.35:703][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.29-13.55.36:990][665]60826_Crows_P_MessageLog: System successfully compiled.
+[2022.09.29-13.55.37:039][665]48716_FallinG_Feathers_MessageLog: System successfully compiled.
+[2022.09.29-13.55.47:638][229]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box51)
+[2022.09.29-13.56.12:944][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kitchen_Island)
+[2022.09.29-13.56.12:944][555]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-13.56.13:388][577]LogEditorViewport: Clicking on Actor (LMB): Blockout_Tube_C (Blockout_Tube6)
+[2022.09.29-13.56.16:756][749]LogEditorViewport: Clicking on Actor (CTRL LMB): Blockout_Box_C (Blockout_Box52)
+[2022.09.29-13.56.22:588][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kitchen_Island)
+[2022.09.29-13.56.23:948][121]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere16)
+[2022.09.29-13.56.24:563][144]LogEditorViewport: Clicking on Actor (LMB): Blockout_Tube_C (Blockout_Tube6)
+[2022.09.29-13.56.27:549][280]LogEditorViewport: Clicking on Actor (CTRL LMB): Blockout_Box_C (Blockout_Box52)
+[2022.09.29-13.57.06:492][286]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cone_C (Blockout_Cone3)
+[2022.09.29-13.57.08:332][374]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.29-13.57.08:346][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.29-13.57.08:346][374]PIE: New page: PIE session: The_Kitchen (29 Sep 2022, 15:57:08)
+[2022.09.29-13.57.08:360][374]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-13.57.08:411][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049712s)
+[2022.09.29-13.57.08:412][374]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.09.29-13.57.08:412][374]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2022.09.29-13.57.08:412][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_Kitchen.The_Kitchen to /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen (0.050967s)
+[2022.09.29-13.57.08:459][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.09.29-13.57.08:461][374]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.09.29-13.57.08:461][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.29-13.57.08:462][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.29-13.57.08:462][374]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.29-13.57.08:462][374]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.29-13.57.08:462][374]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.29-13.57.08:462][374]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.29-13.57.08:470][374]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.29-13.57.08:470][374]LogAudioMixer: Display: 1: FrontRight
+[2022.09.29-13.57.08:475][374]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.29-13.57.08:475][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.29-13.57.08:475][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.29-13.57.08:475][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.29-13.57.08:476][374]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.29-13.57.08:476][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.29-13.57.08:476][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.29-13.57.08:477][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.29-13.57.08:477][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.29-13.57.08:477][374]LogInit: FAudioDevice initialized.
+[2022.09.29-13.57.08:477][374]LogAudio: Display: Audio Device (ID: 28) registered with world 'The_Kitchen'.
+[2022.09.29-13.57.08:485][374]LogLoad: Game class is 'GameModeBase'
+[2022.09.29-13.57.08:491][374]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen up for play (max tick rate 120) at 2022.09.29-14.57.08
+[2022.09.29-13.57.08:491][374]LogWorld: Bringing up level for play took: 0.006126
+[2022.09.29-13.57.08:491][374]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.09.29-13.57.08:494][374]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-13.57.08:494][374]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-13.57.08:495][374]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:495][374]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:495][374]PIE: Server logged in
+[2022.09.29-13.57.08:496][374]PIE: Play in editor total start time 0.151 seconds.
+[2022.09.29-13.57.08:517][375]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:517][375]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:518][375]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:518][375]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:518][375]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:518][375]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:519][375]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:519][375]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:519][375]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:519][375]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:552][376]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:552][376]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:658][378]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:658][378]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:658][378]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:659][378]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:659][378]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:659][378]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:744][379]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:745][379]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:745][379]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:745][379]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:755][380]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:756][380]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:831][381]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:831][381]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:831][381]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:831][381]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:905][382]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:905][382]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:906][382]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:906][382]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:906][382]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:906][382]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:983][383]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:983][383]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.08:983][383]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.08:983][383]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:060][384]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:060][384]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:060][384]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:060][384]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:134][385]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:134][385]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:135][385]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:135][385]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:135][385]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:135][385]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:212][386]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:212][386]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:213][386]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:213][386]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:281][387]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:282][387]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:282][387]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:282][387]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:354][388]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:354][388]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:355][388]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:355][388]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:425][389]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:425][389]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:426][389]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:426][389]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:497][390]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:498][390]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:498][390]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:498][390]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:571][391]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:571][391]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:571][391]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:571][391]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:572][391]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:572][391]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:639][392]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:639][392]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:639][392]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:639][392]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:710][393]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:710][393]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:711][393]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:711][393]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:778][394]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:778][394]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:778][394]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:778][394]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:850][395]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:850][395]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:850][395]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:850][395]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:915][396]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:915][396]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:916][396]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:916][396]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:982][397]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:983][397]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.09:983][397]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.09:983][397]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:053][398]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:053][398]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:053][398]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:053][398]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:120][399]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:120][399]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:121][399]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:121][399]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:191][400]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:191][400]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:192][400]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:192][400]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:255][401]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:255][401]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:255][401]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:255][401]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:321][402]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:321][402]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:321][402]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:321][402]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:386][403]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:387][403]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:387][403]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:387][403]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:452][404]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:452][404]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:452][404]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:452][404]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:521][405]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:521][405]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:522][405]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:522][405]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:585][406]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:585][406]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:585][406]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:585][406]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:649][407]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:649][407]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:650][407]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:650][407]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:713][408]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:713][408]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:714][408]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:714][408]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:779][409]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:779][409]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:779][409]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:779][409]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:848][410]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:848][410]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:849][410]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:849][410]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:912][411]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:912][411]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:912][411]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:912][411]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:977][412]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:977][412]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.10:977][412]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.10:977][412]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:040][413]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:040][413]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:040][413]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:040][413]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:106][414]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:106][414]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:107][414]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:107][414]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:175][415]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:175][415]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:176][415]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:176][415]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:241][416]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:241][416]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:241][416]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:241][416]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:306][417]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:306][417]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:306][417]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:306][417]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:371][418]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:371][418]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:371][418]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:371][418]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:435][419]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:435][419]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:435][419]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:435][419]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:500][420]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:500][420]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:568][421]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:568][421]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:568][421]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:568][421]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:634][422]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:634][422]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:635][422]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:635][422]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:635][422]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:635][422]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:699][423]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:699][423]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:765][424]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:765][424]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:765][424]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:765][424]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:833][425]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:833][425]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:833][425]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:833][425]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:899][426]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:899][426]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:899][426]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:899][426]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:963][427]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:963][427]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.11:964][427]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.11:964][427]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:029][428]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:029][428]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:030][428]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:030][428]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:100][429]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:100][429]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:101][429]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:101][429]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:164][430]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:164][430]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:164][430]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:164][430]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:294][432]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:294][432]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:295][432]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-13.57.12:295][432]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-13.57.12:340][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-13.57.12:340][432]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-13.57.12:340][432]Cmd: t.MaxFPS 120.0
+[2022.09.29-13.57.12:340][432]t.MaxFPS = "120"
+[2022.09.29-13.57.12:340][432]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-13.57.12:340][432]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-13.57.12:341][432]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-13.57.12:342][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-13.57.12:413][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.29-13.57.12:419][432]LogNiagaraEditor: onPieEnd
+[2022.09.29-13.57.12:432][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-13.57.12:457][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-13.57.12:459][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-13.57.12:460][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-13.57.12:472][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.09.29-13.57.12:511][433]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.09.29-13.57.23:378][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.09.29-13.57.24:196][ 39]LogSlate: Window 'Save Content' being destroyed
+[2022.09.29-13.57.24:264][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_Kitchen" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.29-13.57.24:291][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.29-13.57.24:496][ 39]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Kitchen9C6164914B667EBD05DD0C9AAEBC9EC6.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.09.29-13.57.24:509][ 39]LogFileHelpers: Saving map 'The_Kitchen' took 0.246
+[2022.09.29-13.57.24:533][ 39]AssetCheck: New page: Asset Save: The_Kitchen
+[2022.09.29-13.57.24:533][ 39]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.09.29-13.57.45:876][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.09.29-14.08.31:795][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.09.29-14.08.44:080][195]LogEditorViewport: Clicking on Actor (LMB): Blockout_Doorway_C (Blockout_Doorway3)
+[2022.09.29-14.09.00:959][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.09.29-14.09.01:934][593]LogSlate: Window 'Save Content' being destroyed
+[2022.09.29-14.09.01:999][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_Kitchen" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.29-14.09.02:024][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.09.29-14.09.02:253][593]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Kitchen4BE71AF445893B7EE9DF7386AB1D56D5.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.09.29-14.09.02:262][593]LogFileHelpers: Saving map 'The_Kitchen' took 0.263
+[2022.09.29-14.09.02:285][593]AssetCheck: New page: Asset Save: The_Kitchen
+[2022.09.29-14.09.02:285][593]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.09.29-14.09.33:747][313]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-14.09.44:471][  0]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.29-14.09.58:128][817]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.29-14.09.58:142][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.29-14.09.58:142][817]PIE: New page: PIE session: The_Kitchen (29 Sep 2022, 16:09:58)
+[2022.09.29-14.09.58:143][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-14.09.58:209][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066098s)
+[2022.09.29-14.09.58:209][817]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.09.29-14.09.58:210][817]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2022.09.29-14.09.58:210][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_Kitchen.The_Kitchen to /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen (0.067302s)
+[2022.09.29-14.09.58:239][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.09.29-14.09.58:245][817]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.29-14.09.58:245][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.29-14.09.58:245][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.29-14.09.58:245][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.29-14.09.58:245][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.29-14.09.58:245][817]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.29-14.09.58:252][817]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.29-14.09.58:252][817]LogAudioMixer: Display: 1: FrontRight
+[2022.09.29-14.09.58:258][817]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.29-14.09.58:258][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.29-14.09.58:258][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.29-14.09.58:258][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.29-14.09.58:259][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.29-14.09.58:259][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.29-14.09.58:259][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.29-14.09.58:260][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.29-14.09.58:260][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.29-14.09.58:260][817]LogInit: FAudioDevice initialized.
+[2022.09.29-14.09.58:260][817]LogAudio: Display: Audio Device (ID: 29) registered with world 'The_Kitchen'.
+[2022.09.29-14.09.58:270][817]LogLoad: Game class is 'GameModeBase'
+[2022.09.29-14.09.58:275][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen up for play (max tick rate 120) at 2022.09.29-15.09.58
+[2022.09.29-14.09.58:276][817]LogWorld: Bringing up level for play took: 0.005188
+[2022.09.29-14.09.58:276][817]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.09.29-14.09.58:278][817]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-14.09.58:278][817]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-14.09.58:279][817]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:279][817]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:280][817]PIE: Server logged in
+[2022.09.29-14.09.58:281][817]PIE: Play in editor total start time 0.14 seconds.
+[2022.09.29-14.09.58:304][818]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:304][818]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:305][818]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:305][818]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:305][818]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:305][818]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:306][818]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:306][818]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:306][818]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:306][818]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:336][821]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:336][821]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:440][823]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:440][823]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:441][823]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:441][823]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:441][823]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:442][823]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:523][824]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:523][824]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:523][824]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:523][824]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:600][825]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:600][825]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:601][825]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:601][825]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:601][825]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:601][825]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:679][826]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:679][826]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:680][826]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:680][826]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:757][827]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:758][827]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:758][827]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:758][827]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:836][828]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:836][828]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:837][828]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:837][828]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:837][828]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:837][828]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:913][829]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:913][829]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:914][829]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:914][829]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:990][830]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:990][830]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.58:991][830]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.58:991][830]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:069][831]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:069][831]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:070][831]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:070][831]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:070][831]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:070][831]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:142][832]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:142][832]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:142][832]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:142][832]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:218][833]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:218][833]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:218][833]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:218][833]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:291][834]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:292][834]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:292][834]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:292][834]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:366][835]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:366][835]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:367][835]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:367][835]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:367][835]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:367][835]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:439][836]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:439][836]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:440][836]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:440][836]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:510][837]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:510][837]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:510][837]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:510][837]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:581][838]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:581][838]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:582][838]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:582][838]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:648][839]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:648][839]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:649][839]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:649][839]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:718][840]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:718][840]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:718][840]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:718][840]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:790][841]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:790][841]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:791][841]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:791][841]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:858][842]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:858][842]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:858][842]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:858][842]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:931][843]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:931][843]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:931][843]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:932][843]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:932][843]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:932][843]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.09.59:999][844]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.09.59:999][844]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:000][844]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:000][844]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:069][845]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:070][845]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:070][845]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:070][845]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:138][846]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:138][846]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:139][846]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:139][846]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:206][847]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:206][847]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:207][847]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:207][847]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:276][848]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:276][848]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:276][848]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:276][848]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:340][849]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:340][849]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:341][849]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:341][849]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:413][850]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:413][850]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:414][850]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:414][850]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:477][851]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:477][851]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:477][851]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:477][851]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:617][853]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:617][853]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:618][853]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.00:618][853]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.00:648][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.10.00:648][853]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-14.10.00:648][853]Cmd: t.MaxFPS 120.0
+[2022.09.29-14.10.00:649][853]t.MaxFPS = "120"
+[2022.09.29-14.10.00:649][853]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-14.10.00:649][853]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-14.10.00:649][853]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-14.10.00:650][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-14.10.00:735][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.29-14.10.00:743][853]LogNiagaraEditor: onPieEnd
+[2022.09.29-14.10.00:755][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-14.10.00:781][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.29-14.10.00:781][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-14.10.00:782][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-14.10.00:784][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.10.00:794][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.09.29-14.10.00:835][854]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.09.29-14.10.01:885][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.29-14.10.05:981][129]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.29-14.10.05:996][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.29-14.10.05:997][129]PIE: New page: PIE session: The_Kitchen (29 Sep 2022, 16:10:05)
+[2022.09.29-14.10.05:997][129]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-14.10.06:048][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051123s)
+[2022.09.29-14.10.06:049][129]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.09.29-14.10.06:049][129]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2022.09.29-14.10.06:049][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_Kitchen.The_Kitchen to /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen (0.052339s)
+[2022.09.29-14.10.06:077][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.09.29-14.10.06:080][129]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.29-14.10.06:080][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.29-14.10.06:081][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.29-14.10.06:081][129]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.29-14.10.06:081][129]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.29-14.10.06:081][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.29-14.10.06:081][129]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.29-14.10.06:088][129]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.29-14.10.06:088][129]LogAudioMixer: Display: 1: FrontRight
+[2022.09.29-14.10.06:093][129]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.29-14.10.06:094][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.29-14.10.06:094][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.29-14.10.06:094][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.29-14.10.06:094][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.29-14.10.06:094][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.29-14.10.06:094][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.29-14.10.06:095][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.29-14.10.06:095][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.29-14.10.06:095][129]LogInit: FAudioDevice initialized.
+[2022.09.29-14.10.06:095][129]LogAudio: Display: Audio Device (ID: 30) registered with world 'The_Kitchen'.
+[2022.09.29-14.10.06:107][129]LogLoad: Game class is 'GameModeBase'
+[2022.09.29-14.10.06:112][129]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen up for play (max tick rate 120) at 2022.09.29-15.10.06
+[2022.09.29-14.10.06:113][129]LogWorld: Bringing up level for play took: 0.005512
+[2022.09.29-14.10.06:113][129]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.09.29-14.10.06:116][129]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-14.10.06:116][129]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-14.10.06:117][129]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:117][129]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:117][129]PIE: Server logged in
+[2022.09.29-14.10.06:118][129]PIE: Play in editor total start time 0.123 seconds.
+[2022.09.29-14.10.06:138][130]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:138][130]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:138][130]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:138][130]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:139][130]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:139][130]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:139][130]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:139][130]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:153][131]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:153][131]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:186][134]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:186][134]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:278][136]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:278][136]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:278][136]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:278][136]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:361][137]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:361][137]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:361][137]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:361][137]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:362][137]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:362][137]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:441][138]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:441][138]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:442][138]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:442][138]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:521][139]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:521][139]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:522][139]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:522][139]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:522][139]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:522][139]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:600][140]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:600][140]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:600][140]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:600][140]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:678][141]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:678][141]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:679][141]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:679][141]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:756][142]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:756][142]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:757][142]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:757][142]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:757][142]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:757][142]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:829][143]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:829][143]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:830][143]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:830][143]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:906][144]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:906][144]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:907][144]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:907][144]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:979][145]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:979][145]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.06:980][145]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.06:980][145]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:055][146]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:055][146]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:056][146]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:056][146]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:056][146]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:056][146]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:128][147]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:128][147]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:128][147]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:128][147]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:199][148]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:199][148]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:199][148]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:199][148]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:271][149]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:272][149]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:272][149]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:272][149]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:339][150]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:339][150]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:340][150]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:340][150]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:411][151]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:411][151]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:411][151]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:411][151]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:480][152]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:480][152]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:481][152]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:481][152]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:551][153]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:551][153]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:552][153]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:552][153]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:552][153]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:552][153]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:621][154]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:621][154]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:621][154]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:621][154]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:688][155]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:688][155]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:688][155]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:688][155]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:757][156]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:757][156]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:758][156]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:758][156]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:828][157]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:828][157]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:828][157]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:828][157]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:899][158]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:899][158]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:899][158]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:899][158]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:965][159]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:965][159]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.07:966][159]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.07:966][159]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:035][160]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:035][160]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:036][160]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:036][160]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:103][161]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:103][161]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:103][161]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:103][161]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:170][162]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:171][162]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:171][162]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:171][162]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:239][163]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:239][163]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:239][163]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:239][163]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:305][164]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:306][164]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:306][164]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:306][164]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:372][165]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:372][165]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:372][165]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:372][165]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:439][166]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:439][166]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:440][166]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:440][166]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:507][167]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:507][167]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:508][167]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:508][167]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:573][168]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:573][168]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:573][168]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:574][168]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:642][169]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:642][169]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:643][169]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:643][169]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:711][170]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:711][170]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:712][170]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:712][170]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:779][171]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:779][171]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:779][171]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:779][171]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:848][172]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:848][172]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:849][172]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:849][172]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:914][173]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:914][173]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:915][173]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:915][173]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:980][174]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:980][174]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.08:981][174]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.08:981][174]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:049][175]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:049][175]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:049][175]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:049][175]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:117][176]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:117][176]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:118][176]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:118][176]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:118][176]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:118][176]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:183][177]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:183][177]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:184][177]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:184][177]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:255][178]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:255][178]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:256][178]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:256][178]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:320][179]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:320][179]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:320][179]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:320][179]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:387][180]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:387][180]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:388][180]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:388][180]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:455][181]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:455][181]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:455][181]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:455][181]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:525][182]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:525][182]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:525][182]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:525][182]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:593][183]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:593][183]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:593][183]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:593][183]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:663][184]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:663][184]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:664][184]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:664][184]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:728][185]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:728][185]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:729][185]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:729][185]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:808][186]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:808][186]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:808][186]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:808][186]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:888][187]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:888][187]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:889][187]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:889][187]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:889][187]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:889][187]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:959][188]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:959][188]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.09:960][188]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.09:960][188]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:025][189]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:025][189]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:026][189]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:026][189]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:091][190]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:091][190]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:091][190]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:091][190]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:158][191]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:158][191]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:158][191]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:158][191]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:229][192]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:229][192]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:229][192]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:229][192]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:294][193]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:295][193]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:295][193]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:295][193]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:364][194]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:364][194]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:364][194]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:364][194]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:431][195]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:431][195]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:431][195]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:431][195]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:618][198]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:618][198]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:619][198]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.10.10:619][198]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.10.10:658][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.10.10:658][198]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-14.10.10:658][198]Cmd: t.MaxFPS 120.0
+[2022.09.29-14.10.10:658][198]t.MaxFPS = "120"
+[2022.09.29-14.10.10:659][198]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-14.10.10:659][198]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-14.10.10:659][198]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-14.10.10:660][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-14.10.10:710][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.29-14.10.10:718][198]LogNiagaraEditor: onPieEnd
+[2022.09.29-14.10.10:728][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-14.10.10:752][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.10.10:754][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-14.10.10:755][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-14.10.10:767][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.09.29-14.10.10:808][199]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.09.29-14.10.14:410][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.09.29-14.10.15:235][393]LogSlate: Window 'Save Content' being destroyed
+[2022.09.29-14.10.15:294][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_Kitchen" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.29-14.10.15:320][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.29-14.10.15:533][393]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_KitchenB73F55784B9C52233BA0DBA8CBFD5626.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.09.29-14.10.15:543][393]LogFileHelpers: Saving map 'The_Kitchen' took 0.249
+[2022.09.29-14.10.15:564][393]AssetCheck: New page: Asset Save: The_Kitchen
+[2022.09.29-14.10.15:564][393]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.09.29-14.10.28:812][128]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box)
+[2022.09.29-14.11.02:032][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.29-14.11.09:643][366]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box47)
+[2022.09.29-14.11.13:373][537]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box)
+[2022.09.29-14.11.15:913][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.09.29-14.11.16:900][696]LogSlate: Window 'Save Content' being destroyed
+[2022.09.29-14.11.16:967][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_Kitchen" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.29-14.11.16:993][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.29-14.11.17:205][696]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_KitchenA3844A744E4DFA7A1CEBEFBAFF973D0F.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.09.29-14.11.17:216][696]LogFileHelpers: Saving map 'The_Kitchen' took 0.249
+[2022.09.29-14.11.17:239][696]AssetCheck: New page: Asset Save: The_Kitchen
+[2022.09.29-14.11.17:239][696]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.09.29-14.11.27:867][269]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box)
+[2022.09.29-14.12.11:361][734]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.29-14.12.11:842][757]LogEditorViewport: Clicking on Actor (LMB): Forest_Tree_C (Forest_Tree)
+[2022.09.29-14.12.12:701][809]Cmd: DELETE
+[2022.09.29-14.12.12:701][809]Cmd: ACTOR DELETE
+[2022.09.29-14.12.12:714][809]LogEditorActor: Deleted Actor: Forest_Tree_C
+[2022.09.29-14.12.12:758][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.09.29-14.12.12:763][809]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2022.09.29-14.12.25:935][610]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.12.27:312][758]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.12.41:090][577]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.12.42:394][717]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.12.44:078][810]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.12.45:231][935]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.12.46:653][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.29-14.12.47:133][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottle_Block3)
+[2022.09.29-14.12.52:840][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottle_Block2)
+[2022.09.29-14.13.08:886][223]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.13.10:463][380]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.13.12:313][472]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.13.13:023][541]LogActorFactory: Actor Factory created Bottle_Block
+[2022.09.29-14.13.36:779][813]LogEditorViewport: Clicking on Actor (LMB): BP_DynamicVolumetricSky_C (BP_DynamicVolumetricSky)
+[2022.09.29-14.13.47:915][396]LogActorFactory: Actor Factory created Swamp_Tree_Block
+[2022.09.29-14.14.57:281][890]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.29-14.14.57:296][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.29-14.14.57:297][890]PIE: New page: PIE session: The_Kitchen (29 Sep 2022, 16:14:57)
+[2022.09.29-14.14.57:297][890]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-14.14.57:377][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079700s)
+[2022.09.29-14.14.57:378][890]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.09.29-14.14.57:378][890]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2022.09.29-14.14.57:378][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_Kitchen.The_Kitchen to /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen (0.081334s)
+[2022.09.29-14.14.57:407][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.09.29-14.14.57:412][890]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.29-14.14.57:412][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.29-14.14.57:412][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.29-14.14.57:413][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.29-14.14.57:413][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.29-14.14.57:413][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.29-14.14.57:413][890]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.29-14.14.57:420][890]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.29-14.14.57:420][890]LogAudioMixer: Display: 1: FrontRight
+[2022.09.29-14.14.57:426][890]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.09.29-14.14.57:426][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.29-14.14.57:426][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.29-14.14.57:426][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.29-14.14.57:427][890]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.29-14.14.57:427][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.29-14.14.57:427][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.29-14.14.57:429][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.29-14.14.57:429][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.29-14.14.57:429][890]LogInit: FAudioDevice initialized.
+[2022.09.29-14.14.57:429][890]LogAudio: Display: Audio Device (ID: 31) registered with world 'The_Kitchen'.
+[2022.09.29-14.14.57:439][890]LogLoad: Game class is 'GameModeBase'
+[2022.09.29-14.14.57:445][890]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen up for play (max tick rate 120) at 2022.09.29-15.14.57
+[2022.09.29-14.14.57:445][890]LogWorld: Bringing up level for play took: 0.005726
+[2022.09.29-14.14.57:445][890]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.09.29-14.14.57:448][890]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-14.14.57:448][890]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-14.14.57:449][890]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:449][890]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:450][890]PIE: Server logged in
+[2022.09.29-14.14.57:451][890]PIE: Play in editor total start time 0.155 seconds.
+[2022.09.29-14.14.57:473][891]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:473][891]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:474][891]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:474][891]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:475][891]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:475][891]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:475][891]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:476][891]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:476][891]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:476][891]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:496][892]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:496][892]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:520][893]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:521][893]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:647][895]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:648][895]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:648][895]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:648][895]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:648][895]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:648][895]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:729][896]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:729][896]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:729][896]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:729][896]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:730][896]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:730][896]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:818][897]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:818][897]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:818][897]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:819][897]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:897][898]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:897][898]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:898][898]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:898][898]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:898][898]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:898][898]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:983][899]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:983][899]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:984][899]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:984][899]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.57:984][899]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.57:984][899]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:064][900]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:064][900]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:065][900]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:065][900]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:146][901]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:147][901]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:147][901]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:147][901]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:225][902]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:226][902]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:226][902]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:226][902]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:226][902]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:227][902]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:303][903]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:303][903]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:304][903]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:304][903]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:376][904]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:376][904]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:377][904]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:377][904]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:451][905]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:451][905]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:452][905]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:452][905]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:452][905]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:452][905]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:528][906]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:528][906]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:529][906]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:529][906]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:604][907]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:604][907]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:605][907]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:605][907]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:680][908]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:680][908]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:680][908]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:680][908]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:755][909]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:755][909]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:756][909]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:756][909]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:756][909]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:756][909]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:822][910]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:822][910]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:823][910]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:823][910]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:897][911]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:897][911]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:897][911]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:897][911]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:967][912]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:967][912]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.58:967][912]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.58:968][912]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:042][913]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:042][913]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:042][913]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:042][913]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:116][914]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:117][914]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:117][914]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:117][914]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:187][915]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:187][915]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:188][915]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:188][915]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:188][915]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:188][915]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:260][916]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:260][916]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:260][916]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:260][916]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:334][917]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:334][917]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:334][917]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:334][917]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:401][918]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:401][918]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:402][918]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:402][918]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:471][919]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:471][919]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:471][919]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:471][919]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:538][920]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:539][920]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:539][920]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:539][920]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:606][921]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:606][921]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:607][921]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:607][921]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:680][922]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:680][922]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:680][922]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:680][922]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:743][923]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:743][923]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:743][923]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:743][923]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:813][924]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:813][924]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:814][924]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:814][924]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:881][925]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:881][925]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:882][925]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:882][925]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:948][926]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:948][926]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.14.59:948][926]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.14.59:948][926]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:016][927]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:016][927]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:016][927]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:016][927]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:084][928]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:084][928]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:085][928]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:085][928]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:085][928]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:085][928]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:153][929]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:153][929]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:153][929]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:153][929]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:221][930]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:221][930]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:222][930]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:222][930]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:289][931]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:290][931]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:290][931]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:290][931]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:428][933]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:428][933]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:428][933]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.09.29-14.15.00:428][933]r.VolumetricRenderTarget.Mode = "2"
+[2022.09.29-14.15.00:458][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.15.00:458][933]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.09.29-14.15.00:458][933]Cmd: t.MaxFPS 120.0
+[2022.09.29-14.15.00:458][933]t.MaxFPS = "120"
+[2022.09.29-14.15.00:458][933]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.09.29-14.15.00:458][933]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.09.29-14.15.00:458][933]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-14.15.00:460][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-14.15.00:549][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.29-14.15.00:549][933]LogNiagaraEditor: onPieEnd
+[2022.09.29-14.15.00:559][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-14.15.00:585][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.29-14.15.00:585][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-14.15.00:586][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.29-14.15.00:589][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.15.00:598][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.09.29-14.15.00:621][934]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.09.29-14.15.35:668][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.15.35:672][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.15.35:680][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.15.35:686][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.16.11:719][911]LogRenderer: Reallocating scene render targets to support 3480x2048 Format 10 NumSamples 1 (Frame:317329).
+[2022.09.29-14.16.12:388][914]LogClient: High resolution screenshot saved as C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Screenshots/Windows/HighresScreenshot00001.png
+[2022.09.29-14.16.13:853][  8]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2022.09.29-14.16.20:577][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.09.29-14.16.21:519][204]LogSlate: Window 'Save Content' being destroyed
+[2022.09.29-14.16.21:582][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_Kitchen" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.29-14.16.21:608][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.29-14.16.21:821][204]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_KitchenFEC012FC4200B2D64AD445B846F03203.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.09.29-14.16.21:832][204]LogFileHelpers: Saving map 'The_Kitchen' took 0.251
+[2022.09.29-14.16.21:860][204]AssetCheck: New page: Asset Save: The_Kitchen
+[2022.09.29-14.16.21:860][204]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.09.29-14.16.23:956][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.16.23:962][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.16.23:968][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.16.23:973][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-14.16.24:001][373]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2022.09.29-14.16.24:063][374]LogRenderer: Reallocating scene render targets to support 1160x700 Format 10 NumSamples 1 (Frame:317668).
+[2022.09.29-14.18.46:968][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.09.29-14.20.55:462][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.09.29-14.26.03:364][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.09.29-14.26.17:636][645]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box)
+[2022.09.29-14.26.18:958][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.29-14.26.22:227][880]LogEditorViewport: Clicking on Actor (LMB): BP_DynamicVolumetricSky_C (BP_DynamicVolumetricSky)
+[2022.09.29-14.26.23:306][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.29-14.26.57:867][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.29-14.27.14:936][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/FallinG_Feathers" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/FallinG_Feathers.uasset" SILENT=true
+[2022.09.29-14.27.15:068][151]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/FallinG_Feathers2A745DA2411014481150F49E02FC9FA1.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/FallinG_Feathers.uasset'
+[2022.09.29-14.27.15:088][151]AssetCheck: New page: Asset Save: FallinG_Feathers
+[2022.09.29-14.27.15:088][151]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/FallinG_Feathers.FallinG_Feathers
+[2022.09.29-14.27.27:160][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
