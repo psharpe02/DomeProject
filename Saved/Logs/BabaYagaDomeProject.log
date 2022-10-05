@@ -3193,3 +3193,791 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.05-14.55.02:170][823]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
 [2022.10.05-14.55.02:170][823]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
 [2022.10.05-14.55.02:170][823]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.01.41:433][412]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (Fire_P_N)
+[2022.10.05-15.01.42:285][510]Cmd: DELETE
+[2022.10.05-15.01.42:286][510]Cmd: ACTOR DELETE
+[2022.10.05-15.01.42:322][510]LogEditorActor: Deleted Actor: NiagaraActor
+[2022.10.05-15.01.42:393][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.10.05-15.01.42:397][510]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2022.10.05-15.01.47:874][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.05-15.01.49:155][122]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-15.01.49:195][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/BackGround_materialC1947A8C42F3667C098EBD9B06287CDD.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Camera_360/Materials/BackGround_material.uasset'
+[2022.10.05-15.01.49:198][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Fire_P" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Fire_P.uasset" SILENT=true
+[2022.10.05-15.01.49:212][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Fire_P46DE8AD3460459701D9DD4AC63D0063C.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Fire_P.uasset'
+[2022.10.05-15.01.49:213][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Fire_P_N" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Fire_P_N.uasset" SILENT=true
+[2022.10.05-15.01.49:309][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Fire_P_NE4075E474D629AF355D279B64DD07B89.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Fire_P_N.uasset'
+[2022.10.05-15.01.49:318][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/lambert1" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Meshes/lambert1.uasset" SILENT=true
+[2022.10.05-15.01.49:322][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/lambert1F4E7FB504E9E2E0067EAF39221096105.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Meshes/lambert1.uasset'
+[2022.10.05-15.01.49:335][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Materials/Stars_1_Mat" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Stars_1_Mat.uasset" SILENT=true
+[2022.10.05-15.01.49:340][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Stars_1_MatF52A7122428E30460F55078BE8108250.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Stars_1_Mat.uasset'
+[2022.10.05-15.01.49:377][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.05-15.01.49:571][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/The_KitchenC31F1C7147E4F6B56AE2228CC4BE51DA.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.10.05-15.01.49:687][122]LogFileHelpers: Saving map 'The_Kitchen' took 0.345
+[2022.10.05-15.01.50:037][122]LogTexture: Display: Building textures: PolyArt_Cats_color (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:037][122]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.10.05-15.01.50:037][122]LogTexture: Display: Building textures: Crow_Edit (OODLE_AutoDXT, 1000X1000)
+[2022.10.05-15.01.50:037][122]LogTexture: Display: Building textures: PolyArt_Cats_Spec (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:037][122]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.10.05-15.01.50:037][122]LogTexture: Display: Building textures: PolyArt_Cats_Normal (OODLE_BC5, 1024X1024)
+[2022.10.05-15.01.50:037][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:037][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.10.05-15.01.50:037][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:037][122]LogMaterial: Display: Missing cached shadermap for Crow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EF4A2454999BECCAB4D16572C873DC8BA60B5B6F), compiling. 
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 64X64)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 64X64)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:160][122]LogShaderCompilers: Display: Submitted 102 shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 102
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 92
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 82
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 72
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 62
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 52
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2022.10.05-15.01.50:320][122]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:320][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:321][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:321][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.01.50:321][122]LogMaterial: Display: Missing cached shadermap for Med_Green in PCD3D_SM5, Default, SM5 (DDC key hash: 524CFE0334BBEC4B7B2733E595B6A8B7EE7C7904), compiling. 
+[2022.10.05-15.01.50:398][122]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:398][122]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:398][122]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:398][122]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.10.05-15.01.50:398][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:399][122]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:399][122]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:399][122]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.01.50:399][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:399][122]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2022.10.05-15.01.50:399][122]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2022.10.05-15.01.50:399][122]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:592][122]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2022.10.05-15.01.50:592][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:592][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:592][122]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2022.10.05-15.01.50:592][122]LogTexture: Display: Building textures: NewReflectionComponentTextureA70E7BC44E20E49F08FE1BA79FFBA49B (BGRA8, 128X128)
+[2022.10.05-15.01.50:592][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:592][122]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.01.50:592][122]LogStaticMesh: Building static mesh Forest_Tree1_Block...
+[2022.10.05-15.01.50:599][122]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/Forest_Tree1_Block.Forest_Tree1_Block
+[2022.10.05-15.01.50:600][122]LogStaticMesh: Building static mesh Forest_Tree2_Block...
+[2022.10.05-15.01.50:606][122]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/Forest_Tree2_Block.Forest_Tree2_Block
+[2022.10.05-15.01.50:609][122]LogStaticMesh: Building static mesh Logs_Block...
+[2022.10.05-15.01.50:628][122]LogStaticMesh: Built static mesh [0.02s] /Game/Blockout/Meshes/Logs_Block.Logs_Block
+[2022.10.05-15.01.50:633][122]LogMaterial: Display: Missing cached shadermap for M_LowPoly_Cat in PCD3D_SM5, Default, SM5 (DDC key hash: 2E806037C006DF151B3FCCBBC2B5D93DF6CDE038), compiling. 
+[2022.10.05-15.01.50:665][122]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:668][122]LogMaterial: Display: Missing cached shadermap for Wood3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C5EC6EAEC1F59B24D8FA5C61156319770075CB2), compiling. 
+[2022.10.05-15.01.50:723][122]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:729][122]LogSkeletalMesh: Building Skeletal Mesh Mesh_Cat_black...
+[2022.10.05-15.01.50:753][122]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Plugins/LowPoly_Cat/Meshes/Mesh_Cat_black.Mesh_Cat_black
+[2022.10.05-15.01.50:757][122]LogMaterial: Display: Missing cached shadermap for Wood2 in PCD3D_SM5, Default, SM5 (DDC key hash: D8706E3683EE03FCDC02AD93818786ECC7944904), compiling. 
+[2022.10.05-15.01.50:825][122]LogShaderCompilers: Display: Submitted 75 shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:827][122]LogMaterial: Display: Missing cached shadermap for Wood1 in PCD3D_SM5, Default, SM5 (DDC key hash: 57BC3FEE30A79F1D005009314C806F472A46E260), compiling. 
+[2022.10.05-15.01.50:889][122]LogShaderCompilers: Display: Submitted 75 shader compile jobs with 'Low' priority
+[2022.10.05-15.01.50:993][122]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.01.50:993][122]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.01.50:993][122]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.01.50:993][122]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.01.51:002][122]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.01.51:003][122]r.PostProcessAAQuality = "2"
+[2022.10.05-15.01.51:003][122]Cmd: r.TextureStreaming 0
+[2022.10.05-15.01.51:003][122]r.TextureStreaming = "0"
+[2022.10.05-15.01.51:028][122]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.05-15.01.51:028][122]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.01.51:029][122]LightingResults: New page: Lighting Build
+[2022.10.05-15.01.51:029][122]LoadErrors: New page: Loading map: Clearing_Forest.umap
+[2022.10.05-15.01.51:038][122]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.01.51:039][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.01.51:040][122]MapCheck: New page: Map Check
+[2022.10.05-15.01.51:041][122]LightingResults: New page: Lighting Build
+[2022.10.05-15.01.51:086][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.01.51:180][122]LogUObjectHash: Compacting FUObjectHashTables data took  17.01ms
+[2022.10.05-15.01.51:249][122]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clearing_Forest'.
+[2022.10.05-15.01.51:332][122]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.01.51:332][122]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.01.51:332][122]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.01.51:332][122]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.01.51:343][122]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.01.51:343][122]r.PostProcessAAQuality = "2"
+[2022.10.05-15.01.51:344][122]Cmd: r.TextureStreaming 0
+[2022.10.05-15.01.51:344][122]r.TextureStreaming = "0"
+[2022.10.05-15.01.51:480][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.01.51:480][122]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.05-15.01.51:521][122]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.10.05-15.01.51:533][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.01.51:534][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.305ms to complete.
+[2022.10.05-15.01.51:534][122]LogFileHelpers: Loading map 'Clearing_Forest' took 0.505
+[2022.10.05-15.01.51:575][122]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-15.01.51:576][122]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/Fire_P_N.Fire_P_N
+[2022.10.05-15.01.51:576][122]LogContentValidation: Display: Validating Material /Game/Camera_360/Materials/BackGround_material.BackGround_material
+[2022.10.05-15.01.51:576][122]LogContentValidation: Display: Validating Material /Game/Particles/Materials/Stars_1_Mat.Stars_1_Mat
+[2022.10.05-15.01.51:576][122]LogContentValidation: Display: Validating ParticleSystem /Game/Particles/Fire_P.Fire_P
+[2022.10.05-15.01.51:576][122]LogContentValidation: Display: Validating Material /Game/Meshes/lambert1.lambert1
+[2022.10.05-15.01.51:576][122]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.10.05-15.01.51:883][122]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.01.51:883][122]r.PostProcessAAQuality = "2"
+[2022.10.05-15.01.51:883][122]Cmd: r.TextureStreaming 0
+[2022.10.05-15.01.51:883][122]r.TextureStreaming = "0"
+[2022.10.05-15.01.59:751][480]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.10.05-15.01.59:751][480]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.01.59:765][480]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-15.01.59:765][480]LogShaderCompilers: Display: Total job queries 3423, among them cache hits 1297 (37.89%)
+[2022.10.05-15.01.59:765][480]LogShaderCompilers: Display: Tracking 1572 distinct input hashes that result in 518 distinct outputs (32.95%)
+[2022.10.05-15.01.59:765][480]LogShaderCompilers: Display: RAM used: 3.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.39%
+[2022.10.05-15.01.59:765][480]LogShaderCompilers: Display: ================================================
+[2022.10.05-15.01.59:989][493]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.10.05-15.01.59:989][493]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.00:300][508]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.10.05-15.02.00:300][508]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.00:507][518]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.10.05-15.02.00:508][518]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.05-15.02.00:508][518]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.01:181][548]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.10.05-15.02.01:181][548]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.01:259][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.10.05-15.02.01:259][551]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.01:393][557]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.10.05-15.02.01:393][557]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.01:683][569]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2022.10.05-15.02.01:683][569]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.01:723][571]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.10.05-15.02.01:723][571]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.01:922][580]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.10.05-15.02.01:922][580]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.01:992][583]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.10.05-15.02.01:993][583]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.03:196][642]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.10.05-15.02.03:196][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.03:218][643]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.10.05-15.02.03:219][643]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.03:373][649]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.10.05-15.02.03:373][649]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.03:476][651]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.10.05-15.02.03:476][651]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.10.05-15.02.03:476][651]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.03:835][664]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.10.05-15.02.03:835][664]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.10.05-15.02.03:835][664]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 252
+[2022.10.05-15.02.03:835][664]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.03:835][664]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.02.04:292][685]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.10.05-15.02.04:292][685]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.04:422][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.10.05-15.02.04:422][691]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.04:466][693]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.10.05-15.02.04:466][693]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.04:507][695]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.10.05-15.02.04:507][695]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.02.04:528][696]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 238
+[2022.10.05-15.02.04:528][696]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.04:730][701]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 228
+[2022.10.05-15.02.04:730][701]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.04:886][707]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 218
+[2022.10.05-15.02.04:886][707]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.05:015][712]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 208
+[2022.10.05-15.02.05:016][712]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.05:127][717]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 198
+[2022.10.05-15.02.05:128][717]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.05:380][726]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 188
+[2022.10.05-15.02.05:380][726]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.06:225][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 178
+[2022.10.05-15.02.06:225][766]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.10:741][994]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 168
+[2022.10.05-15.02.10:741][994]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.10:829][998]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 158
+[2022.10.05-15.02.10:829][998]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.11:260][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 148
+[2022.10.05-15.02.11:260][ 18]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.11:636][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 138
+[2022.10.05-15.02.11:637][ 36]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.12:349][ 70]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 128
+[2022.10.05-15.02.12:349][ 70]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.12:764][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 118
+[2022.10.05-15.02.12:765][ 89]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.13:743][139]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 108
+[2022.10.05-15.02.13:743][139]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.14:320][168]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 98
+[2022.10.05-15.02.14:320][168]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.16:910][257]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 88
+[2022.10.05-15.02.16:910][257]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.18:578][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 78
+[2022.10.05-15.02.18:578][314]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.18:814][321]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 68
+[2022.10.05-15.02.18:814][321]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.18:923][325]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 59
+[2022.10.05-15.02.18:923][325]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.18:923][325]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2022.10.05-15.02.18:923][325]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.20:724][385]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2022.10.05-15.02.20:724][385]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.20:966][394]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2022.10.05-15.02.20:966][394]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.21:838][426]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2022.10.05-15.02.21:839][426]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.22:846][466]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2022.10.05-15.02.22:846][466]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.23:453][490]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.10.05-15.02.23:453][490]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.23:784][503]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.10.05-15.02.23:784][503]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.24:423][525]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.10.05-15.02.24:423][525]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.24:884][542]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.10.05-15.02.24:884][542]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.25:347][558]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.10.05-15.02.25:347][558]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.25:418][559]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.10.05-15.02.25:418][559]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.25:605][564]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.10.05-15.02.25:605][564]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.25:873][570]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.10.05-15.02.25:873][570]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.26:189][578]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.10.05-15.02.26:189][578]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.26:366][583]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.10.05-15.02.26:366][583]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.26:703][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.10.05-15.02.26:704][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.26:885][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.10.05-15.02.26:885][598]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.02.27:059][602]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.10.05-15.02.27:059][602]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.04.16:472][339]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2022.10.05-15.04.23:671][ 74]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blockout/Meshes/Swamp_Tree_Block.Swamp_Tree_Block
+[2022.10.05-15.04.24:068][ 75]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2022.10.05-15.04.41:783][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Systems/Stars_P" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Stars_P.uasset" SILENT=true
+[2022.10.05-15.04.41:907][122]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Stars_P5D62D8F84C0FF8959B59498C43E6CA28.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Stars_P.uasset'
+[2022.10.05-15.04.41:920][122]AssetCheck: New page: Asset Save: Stars_P
+[2022.10.05-15.04.41:920][122]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/Systems/Stars_P.Stars_P
+[2022.10.05-15.04.48:636][833]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box2)
+[2022.10.05-15.08.47:777][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_18 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_17 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_16 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_15 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_14 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_13 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:871][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:871][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:871][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:871][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_23 (OODLE_AutoDXT, 64X64)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_22 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_21 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_20 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_19 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (OODLE_DXT1, 64X64)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2022.10.05-15.08.48:872][996]LogTexture: Display: Building textures: NewReflectionComponentTextureDBA7723A4FFEBBD9216FEF96845F659F (BGRA8, 128X128)
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:872][996]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.08.48:873][996]LogStaticMesh: Building static mesh Hallway_Cabinet...
+[2022.10.05-15.08.48:885][996]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/Hallway_Cabinet.Hallway_Cabinet
+[2022.10.05-15.08.48:886][996]LogTexture: Display: Building textures: dog_silhouette (BGRA8, 7296X4338)
+[2022.10.05-15.08.48:886][996]LogStaticMesh: Building static mesh hatchet...
+[2022.10.05-15.08.48:889][996]LogStaticMesh: Built static mesh [0.00s] /Game/Blockout/Meshes/hatchet.hatchet
+[2022.10.05-15.08.48:889][996]LogStaticMesh: Building static mesh Table_Block...
+[2022.10.05-15.08.48:895][996]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/Table_Block.Table_Block
+[2022.10.05-15.08.48:898][996]LogMaterial: Display: Missing cached shadermap for Colour_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 20B9261C8ACCA812826DEFC651DC174B32FB8A72), compiling. 
+[2022.10.05-15.08.48:983][996]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.10.05-15.08.49:805][996]LogShaderCompilers: Display: Started 41 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.08.49:805][996]LogMaterial: Display: Missing cached shadermap for dog_silhouette_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 75D24A8D45DB2B898592E0C7BE696842423408BD), compiling. 
+[2022.10.05-15.08.49:860][996]LogShaderCompilers: Display: Submitted 44 shader compile jobs with 'Low' priority
+[2022.10.05-15.08.49:863][996]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2022.10.05-15.08.49:864][996]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.08.50:063][996]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.08.50:064][996]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.08.50:064][996]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.08.50:064][996]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.08.50:073][996]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.08.50:074][996]r.PostProcessAAQuality = "2"
+[2022.10.05-15.08.50:074][996]Cmd: r.TextureStreaming 0
+[2022.10.05-15.08.50:074][996]r.TextureStreaming = "0"
+[2022.10.05-15.08.50:141][996]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Entrance_Hut.Entrance_Hut
+[2022.10.05-15.08.50:141][996]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Entrance_Hut.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.08.50:141][996]LightingResults: New page: Lighting Build
+[2022.10.05-15.08.50:142][996]LoadErrors: New page: Loading map: Entrance_Hut.umap
+[2022.10.05-15.08.50:153][996]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.08.50:153][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.08.50:154][996]MapCheck: New page: Map Check
+[2022.10.05-15.08.50:154][996]LightingResults: New page: Lighting Build
+[2022.10.05-15.08.50:184][996]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.08.50:207][996]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2022.10.05-15.08.50:327][996]LogUObjectHash: Compacting FUObjectHashTables data took   9.44ms
+[2022.10.05-15.08.50:356][996]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2022.10.05-15.08.50:359][996]LogAudio: Display: Audio Device (ID: 1) registered with world 'Entrance_Hut'.
+[2022.10.05-15.08.50:441][996]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.08.50:441][996]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.08.50:441][996]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.08.50:441][996]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Entrance_Hut.Entrance_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.08.50:451][996]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.08.50:452][996]r.PostProcessAAQuality = "2"
+[2022.10.05-15.08.50:452][996]Cmd: r.TextureStreaming 0
+[2022.10.05-15.08.50:452][996]r.TextureStreaming = "0"
+[2022.10.05-15.08.50:623][996]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.08.50:623][996]LogAIModule: Creating AISystem for world Entrance_Hut
+[2022.10.05-15.08.50:663][996]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2022.10.05-15.08.50:674][996]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.08.50:674][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2022.10.05-15.08.50:674][996]LogFileHelpers: Loading map 'Entrance_Hut' took 0.533
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: Total job queries 3513, among them cache hits 1302 (37.06%)
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: Tracking 1926 distinct input hashes that result in 574 distinct outputs (29.80%)
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: RAM used: 3.54 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.43%
+[2022.10.05-15.08.52:428][ 55]LogShaderCompilers: Display: ================================================
+[2022.10.05-15.08.52:899][ 76]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.10.05-15.08.52:899][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.08.53:223][ 90]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.10.05-15.08.53:223][ 90]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-15.08.53:759][115]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2022.10.05-15.08.53:759][115]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.53:953][123]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2022.10.05-15.08.53:953][123]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.54:176][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.10.05-15.08.54:176][131]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.54:578][149]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.10.05-15.08.54:579][149]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.54:721][155]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.10.05-15.08.54:721][155]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.54:858][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.10.05-15.08.54:858][161]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.56:266][224]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2022.10.05-15.08.56:266][224]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.56:289][225]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.10.05-15.08.56:289][225]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.56:474][233]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.10.05-15.08.56:475][233]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.56:788][247]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.10.05-15.08.56:788][247]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.56:812][248]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.10.05-15.08.56:812][248]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.56:973][254]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.10.05-15.08.56:973][254]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.57:649][283]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.10.05-15.08.57:649][283]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.57:924][295]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.10.05-15.08.57:924][295]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.08.57:973][297]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.10.05-15.08.57:973][297]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-15.09.13:411][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 64X64)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.09.13:475][ 60]LogStaticMesh: Building static mesh Chair_Block...
+[2022.10.05-15.09.13:482][ 60]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.09.13:482][ 60]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.09.13:482][ 60]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/Chair_Block.Chair_Block
+[2022.10.05-15.09.13:484][ 60]LogStaticMesh: Building static mesh CatSeat_Block...
+[2022.10.05-15.09.13:492][ 60]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/CatSeat_Block.CatSeat_Block
+[2022.10.05-15.09.13:493][ 60]LogStaticMesh: Building static mesh Fireplace_Iteration_6...
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 64X64)
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: NewReflectionComponentTextureCF3036254598DEF4E17283827DFE91F2 (BGRA8, 128X128)
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.09.13:794][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.10.05-15.09.13:794][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-15.09.14:103][ 60]LogStaticMesh: Built static mesh [0.61s] /Game/Meshes/Fireplace_Iteration_6.Fireplace_Iteration_6
+[2022.10.05-15.09.14:151][ 60]LogStaticMesh: Building static mesh Shelf_Block...
+[2022.10.05-15.09.14:158][ 60]LogStaticMesh: Built static mesh [0.01s] /Game/Blockout/Meshes/Shelf_Block.Shelf_Block
+[2022.10.05-15.09.14:196][ 60]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Plugins/LowPoly_Cat/Animations/Anim_Cat_Lie_Sleep_loop.Anim_Cat_Lie_Sleep_loop
+[2022.10.05-15.09.14:196][ 60]LogMaterial: Display: Missing cached shadermap for Dark_Purple in PCD3D_SM5, Default, SM5 (DDC key hash: 87DA115206B5F80C5EEA7E0F5DC978FF75F64CAD), compiling. 
+[2022.10.05-15.09.14:213][ 60]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.10.05-15.09.14:233][ 60]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.10.05-15.09.14:233][ 60]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.09.14:233][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.09.14:233][ 60]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.09.14:233][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.09.14:240][ 60]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.09.14:240][ 60]r.PostProcessAAQuality = "2"
+[2022.10.05-15.09.14:240][ 60]Cmd: r.TextureStreaming 0
+[2022.10.05-15.09.14:240][ 60]r.TextureStreaming = "0"
+[2022.10.05-15.09.14:269][ 60]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Fireplace_Hut.Fireplace_Hut
+[2022.10.05-15.09.14:269][ 60]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Fireplace_Hut.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.09.14:269][ 60]LightingResults: New page: Lighting Build
+[2022.10.05-15.09.14:269][ 60]LoadErrors: New page: Loading map: Fireplace_Hut.umap
+[2022.10.05-15.09.14:274][ 60]LogWorld: UWorld::CleanupWorld for Entrance_Hut, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.09.14:275][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.09.14:275][ 60]MapCheck: New page: Map Check
+[2022.10.05-15.09.14:275][ 60]LightingResults: New page: Lighting Build
+[2022.10.05-15.09.14:297][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.09.14:310][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.10.05-15.09.14:331][ 60]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fireplace_Hut'.
+[2022.10.05-15.09.14:346][ 60]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.09.14:346][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.09.14:346][ 60]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.05-15.09.14:346][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Fireplace_Hut.Fireplace_Hut:PersistentLevel.Camera_point_360
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.05-15.09.14:354][ 60]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.09.14:354][ 60]r.PostProcessAAQuality = "2"
+[2022.10.05-15.09.14:355][ 60]Cmd: r.TextureStreaming 0
+[2022.10.05-15.09.14:355][ 60]r.TextureStreaming = "0"
+[2022.10.05-15.09.14:373][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.09.14:373][ 60]LogAIModule: Creating AISystem for world Fireplace_Hut
+[2022.10.05-15.09.14:408][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.10.05-15.09.14:418][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.09.14:420][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.766ms to complete.
+[2022.10.05-15.09.14:420][ 60]LogFileHelpers: Loading map 'Fireplace_Hut' took 0.151
+[2022.10.05-15.09.30:555][800]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.10.05-15.09.32:241][997]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box26)
+[2022.10.05-15.09.43:363][294]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.10.05-15.09.55:544][732]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.05-15.10.04:343][748]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.10.05-15.10.06:929][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.06:934][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.06:938][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.06:943][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.30:598][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fireplace_Iteration_6)
+[2022.10.05-15.10.31:347][856]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box21)
+[2022.10.05-15.10.33:313][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.33:316][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.33:323][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.10.33:327][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-15.11.06:297][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.05-15.11.07:242][952]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-15.11.07:272][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.05-15.11.07:341][952]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Fireplace_Hut52489346490527084915F68E35E0F8E5.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Fireplace_Hut.umap'
+[2022.10.05-15.11.07:347][952]LogFileHelpers: Saving map 'Fireplace_Hut' took 0.091
+[2022.10.05-15.11.07:416][952]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.11.07:416][952]r.PostProcessAAQuality = "2"
+[2022.10.05-15.11.07:416][952]Cmd: r.TextureStreaming 0
+[2022.10.05-15.11.07:416][952]r.TextureStreaming = "0"
+[2022.10.05-15.11.07:444][952]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.10.05-15.11.07:444][952]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.11.07:444][952]LightingResults: New page: Lighting Build
+[2022.10.05-15.11.07:444][952]LoadErrors: New page: Loading map: The_Kitchen.umap
+[2022.10.05-15.11.07:447][952]LogWorld: UWorld::CleanupWorld for Fireplace_Hut, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.11.07:447][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.11.07:447][952]MapCheck: New page: Map Check
+[2022.10.05-15.11.07:447][952]LightingResults: New page: Lighting Build
+[2022.10.05-15.11.07:464][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.11.07:470][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.05-15.11.07:471][952]LogAudio: Display: Audio Device (ID: 1) registered with world 'The_Kitchen'.
+[2022.10.05-15.11.07:496][952]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.11.07:496][952]r.PostProcessAAQuality = "2"
+[2022.10.05-15.11.07:496][952]Cmd: r.TextureStreaming 0
+[2022.10.05-15.11.07:496][952]r.TextureStreaming = "0"
+[2022.10.05-15.11.07:685][952]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.11.07:685][952]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.10.05-15.11.07:708][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.05-15.11.07:713][952]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.11.07:713][952]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2022.10.05-15.11.07:713][952]LogFileHelpers: Loading map 'The_Kitchen' took 0.269
+[2022.10.05-15.11.07:728][952]AssetCheck: New page: Asset Save: Fireplace_Hut
+[2022.10.05-15.11.07:728][952]LogContentValidation: Display: Validating World /Game/Levels/Fireplace_Hut.Fireplace_Hut
+[2022.10.05-15.11.07:783][952]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.11.07:783][952]r.PostProcessAAQuality = "2"
+[2022.10.05-15.11.07:783][952]Cmd: r.TextureStreaming 0
+[2022.10.05-15.11.07:783][952]r.TextureStreaming = "0"
+[2022.10.05-15.11.13:543][609]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box)
+[2022.10.05-15.11.27:392][218]LogEditorViewport: Clicking on Actor (LMB): Forest_Candles_C (Forest_Candles2)
+[2022.10.05-15.11.40:781][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.10.05-15.12.44:181][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Systems/Stars_P" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Stars_P.uasset" SILENT=true
+[2022.10.05-15.12.44:306][915]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Stars_PD79134A44595E391C428549260D06F5F.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Stars_P.uasset'
+[2022.10.05-15.12.44:321][915]AssetCheck: New page: Asset Save: Stars_P
+[2022.10.05-15.12.44:321][915]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/Systems/Stars_P.Stars_P
+[2022.10.05-15.13.18:113][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.05-15.24.14:707][503]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{85133a7c-01a4-4eb2-8afe-22e422b5b725}.
+[2022.10.05-15.24.14:707][503]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.05-15.24.14:715][503]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-15.24.14:715][503]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-15.31.48:186][854]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{358c63a9-b264-45f1-8f80-762678f4f29a}.
+[2022.10.05-15.31.48:186][854]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.05-15.31.48:297][854]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-15.31.48:297][854]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-15.39.31:674][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.05-15.39.31:710][590]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.10.05-15.39.31:710][590]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.39.31:710][590]LightingResults: New page: Lighting Build
+[2022.10.05-15.39.31:710][590]LoadErrors: New page: Loading map: The_Kitchen.umap
+[2022.10.05-15.39.31:713][590]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.39.31:713][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.39.31:713][590]MapCheck: New page: Map Check
+[2022.10.05-15.39.31:713][590]LightingResults: New page: Lighting Build
+[2022.10.05-15.39.31:730][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.39.31:741][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.05-15.39.31:762][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.05-15.39.31:780][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.05-15.39.31:828][590]LogAudio: Display: Audio Device (ID: 1) registered with world 'The_Kitchen'.
+[2022.10.05-15.39.31:829][590]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.10.05-15.39.31:840][590]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.39.31:840][590]r.PostProcessAAQuality = "2"
+[2022.10.05-15.39.31:840][590]Cmd: r.TextureStreaming 0
+[2022.10.05-15.39.31:840][590]r.TextureStreaming = "0"
+[2022.10.05-15.39.31:922][590]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.39.31:945][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.05-15.39.31:950][590]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.39.31:950][590]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2022.10.05-15.39.31:950][590]LogFileHelpers: Loading map 'The_Kitchen' took 0.240
+[2022.10.05-15.39.34:720][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.05-15.39.34:755][882]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.39.34:755][882]r.PostProcessAAQuality = "2"
+[2022.10.05-15.39.34:755][882]Cmd: r.TextureStreaming 0
+[2022.10.05-15.39.34:755][882]r.TextureStreaming = "0"
+[2022.10.05-15.39.34:761][882]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Fireplace_Hut.Fireplace_Hut
+[2022.10.05-15.39.34:761][882]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Fireplace_Hut.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.39.34:761][882]LightingResults: New page: Lighting Build
+[2022.10.05-15.39.34:761][882]LoadErrors: New page: Loading map: Fireplace_Hut.umap
+[2022.10.05-15.39.34:764][882]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.39.34:764][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.39.34:764][882]MapCheck: New page: Map Check
+[2022.10.05-15.39.34:764][882]LightingResults: New page: Lighting Build
+[2022.10.05-15.39.34:779][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.39.34:789][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.05-15.39.34:790][882]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fireplace_Hut'.
+[2022.10.05-15.39.34:802][882]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.39.34:802][882]r.PostProcessAAQuality = "2"
+[2022.10.05-15.39.34:802][882]Cmd: r.TextureStreaming 0
+[2022.10.05-15.39.34:802][882]r.TextureStreaming = "0"
+[2022.10.05-15.39.34:811][882]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.39.34:811][882]LogAIModule: Creating AISystem for world Fireplace_Hut
+[2022.10.05-15.39.34:832][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.05-15.39.34:837][882]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.39.34:837][882]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2022.10.05-15.39.34:837][882]LogFileHelpers: Loading map 'Fireplace_Hut' took 0.077
+[2022.10.05-15.39.38:082][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.05-15.39.38:143][219]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.39.38:143][219]r.PostProcessAAQuality = "2"
+[2022.10.05-15.39.38:143][219]Cmd: r.TextureStreaming 0
+[2022.10.05-15.39.38:143][219]r.TextureStreaming = "0"
+[2022.10.05-15.39.38:171][219]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.10.05-15.39.38:171][219]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.39.38:171][219]LightingResults: New page: Lighting Build
+[2022.10.05-15.39.38:171][219]LoadErrors: New page: Loading map: The_Kitchen.umap
+[2022.10.05-15.39.38:173][219]LogWorld: UWorld::CleanupWorld for Fireplace_Hut, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.39.38:173][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.39.38:173][219]MapCheck: New page: Map Check
+[2022.10.05-15.39.38:173][219]LightingResults: New page: Lighting Build
+[2022.10.05-15.39.38:191][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.39.38:196][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.05-15.39.38:197][219]LogAudio: Display: Audio Device (ID: 1) registered with world 'The_Kitchen'.
+[2022.10.05-15.39.38:222][219]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.39.38:222][219]r.PostProcessAAQuality = "2"
+[2022.10.05-15.39.38:222][219]Cmd: r.TextureStreaming 0
+[2022.10.05-15.39.38:223][219]r.TextureStreaming = "0"
+[2022.10.05-15.39.38:302][219]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.39.38:302][219]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.10.05-15.39.38:325][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.05-15.39.38:330][219]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.39.38:330][219]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2022.10.05-15.39.38:330][219]LogFileHelpers: Loading map 'The_Kitchen' took 0.160
+[2022.10.05-15.40.36:542][  8]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.40.36:543][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.40.36:553][  8]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.40.36:553][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.40.36:709][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.05-15.40.40:012][229]LogSlate: Window 'Message' being destroyed
+[2022.10.05-15.40.40:020][229]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Particles/Materials/Feather_Mat.Feather_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.10.05-15.40.41:539][229]LogMaterial: Display: Missing cached shadermap for Feather_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1A9E4A4E9BE3C6755B36B08AEC5B8649216A3411), compiling. 
+[2022.10.05-15.40.41:559][229]LogMaterial: Display: Missing cached shadermap for Feather_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4CC0E7CE523310DD9A165BBB53C413F2D1682F39), compiling. 
+[2022.10.05-15.40.41:618][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.05-15.40.41:760][229]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-15.40.41:760][229]LogShaderCompilers: Display: Total job queries 3569, among them cache hits 1333 (37.35%)
+[2022.10.05-15.40.41:760][229]LogShaderCompilers: Display: Tracking 2031 distinct input hashes that result in 588 distinct outputs (28.95%)
+[2022.10.05-15.40.41:760][229]LogShaderCompilers: Display: RAM used: 3.67 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.45%
+[2022.10.05-15.40.41:760][229]LogShaderCompilers: Display: ================================================
+[2022.10.05-15.40.41:772][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.05-15.40.41:786][229]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.40.41:786][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.40.44:151][343]LogSlate: Window 'Message' being destroyed
+[2022.10.05-15.40.44:159][343]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Particles/Materials/Stars_1_Mat.Stars_1_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.10.05-15.40.44:418][343]LogMaterial: Display: Missing cached shadermap for Stars_1_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1DCE5817E0110F5FF01BC82072F97DE928D8210), compiling. 
+[2022.10.05-15.40.44:437][343]LogMaterial: Display: Missing cached shadermap for Stars_1_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 072D56AA68443826B3A91494C169FCB1417DBE81), compiling. 
+[2022.10.05-15.40.44:498][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.05-15.40.44:652][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.05-15.40.44:667][343]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.40.44:667][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.40.48:004][565]LogSlate: Window 'Message' being destroyed
+[2022.10.05-15.40.48:008][565]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Particles/Materials/Stars_2_Mat.Stars_2_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.10.05-15.40.48:267][565]LogMaterial: Display: Missing cached shadermap for Stars_2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C55B34E62FEF94DE29D2771FB5E8DD54B770802B), compiling. 
+[2022.10.05-15.40.48:294][565]LogMaterial: Display: Missing cached shadermap for Stars_2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2BF54EE7CAE4EF1271785A6154EF9CAE4BE7FE2E), compiling. 
+[2022.10.05-15.40.48:363][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.05-15.40.48:518][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.05-15.40.48:530][565]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.40.48:530][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.40.54:223][199]LogCascade: Quitting Cascade. FXSystem=0x00000204A724C100
+[2022.10.05-15.40.54:232][199]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.40.54:232][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.41.04:956][439]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.41.04:963][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.41.04:966][439]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.41.04:966][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.41.05:000][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
