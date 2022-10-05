@@ -3981,3 +3981,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.05-15.41.04:966][439]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2022.10.05-15.41.04:966][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.10.05-15.41.05:000][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.05-15.43.33:424][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.05-15.43.34:896][ 94]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-15.43.34:983][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Materials/Feather_Mat" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Feather_Mat.uasset" SILENT=true
+[2022.10.05-15.43.34:987][ 94]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Feather_Mat26FF4F2B4C1B7255B2889B9722E1124F.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Feather_Mat.uasset'
+[2022.10.05-15.43.35:076][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Materials/Stars_1_Mat" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Stars_1_Mat.uasset" SILENT=true
+[2022.10.05-15.43.35:081][ 94]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Stars_1_Mat95A5B98D42B03BF220393BADCEF50CB2.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Stars_1_Mat.uasset'
+[2022.10.05-15.43.35:167][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Materials/Stars_2_Mat" FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Stars_2_Mat.uasset" SILENT=true
+[2022.10.05-15.43.35:171][ 94]LogSavePackage: Moving '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Saved/Stars_2_MatF45A5D4648FFEA36A0B73A8C2F9A5B78.tmp' to '../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Materials/Stars_2_Mat.uasset'
+[2022.10.05-15.43.35:272][ 94]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.43.35:272][ 94]r.PostProcessAAQuality = "2"
+[2022.10.05-15.43.35:272][ 94]Cmd: r.TextureStreaming 0
+[2022.10.05-15.43.35:272][ 94]r.TextureStreaming = "0"
+[2022.10.05-15.43.35:281][ 94]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.05-15.43.35:282][ 94]Cmd: MAP LOAD FILE="../../../../../../Users/games/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-15.43.35:282][ 94]LightingResults: New page: Lighting Build
+[2022.10.05-15.43.35:282][ 94]LoadErrors: New page: Loading map: Clearing_Forest.umap
+[2022.10.05-15.43.35:284][ 94]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-15.43.35:284][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-15.43.35:284][ 94]MapCheck: New page: Map Check
+[2022.10.05-15.43.35:284][ 94]LightingResults: New page: Lighting Build
+[2022.10.05-15.43.35:293][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-15.43.35:302][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.05-15.43.35:304][ 94]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clearing_Forest'.
+[2022.10.05-15.43.35:335][ 94]Cmd: r.PostProcessAAQuality 2
+[2022.10.05-15.43.35:336][ 94]r.PostProcessAAQuality = "2"
+[2022.10.05-15.43.35:336][ 94]Cmd: r.TextureStreaming 0
+[2022.10.05-15.43.35:336][ 94]r.TextureStreaming = "0"
+[2022.10.05-15.43.35:356][ 94]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-15.43.35:356][ 94]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.05-15.43.35:368][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.05-15.43.35:373][ 94]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-15.43.35:373][ 94]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2022.10.05-15.43.35:373][ 94]LogFileHelpers: Loading map 'Clearing_Forest' took 0.092
+[2022.10.05-15.43.35:388][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-15.43.35:388][ 94]LogContentValidation: Display: Validating Material /Game/Particles/Materials/Stars_1_Mat.Stars_1_Mat
+[2022.10.05-15.43.35:388][ 94]LogContentValidation: Display: Validating Material /Game/Particles/Materials/Feather_Mat.Feather_Mat
+[2022.10.05-15.43.35:388][ 94]LogContentValidation: Display: Validating Material /Game/Particles/Materials/Stars_2_Mat.Stars_2_Mat
