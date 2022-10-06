@@ -1709,3 +1709,61 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.06-14.06.56:383][273]LogFileHelpers: Saving map 'Fireplace_Hut' took 0.094
 [2022.10.06-14.06.56:405][273]AssetCheck: New page: Asset Save: Fireplace_Hut
 [2022.10.06-14.06.56:405][273]LogContentValidation: Display: Validating World /Game/Levels/Fireplace_Hut.Fireplace_Hut
+[2022.10.06-14.07.39:838][335]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box21)
+[2022.10.06-14.07.41:842][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Logs_Block)
+[2022.10.06-14.07.46:567][  7]LogEditorViewport: Clicking on Actor (context menu): Blockout_Box_C (Blockout_Box8)
+[2022.10.06-14.07.47:600][116]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box8)
+[2022.10.06-14.07.51:438][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.51:444][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.51:450][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.51:456][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.54:866][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.54:870][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.54:878][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.07.54:883][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-14.08.00:640][542]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box36)
+[2022.10.06-14.08.01:286][615]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box36)
+[2022.10.06-14.08.03:580][886]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box28)
+[2022.10.06-14.20.26:517][370]BlueprintLog: New page: Compile Fire_Room
+[2022.10.06-14.20.26:559][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.10.06-14.21.09:142][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.10.06-14.21.09:209][528]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Fireplace_Hut_Auto17398ABA0460ACFCDC8DDB7B0900D66A6.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/Fireplace_Hut_Auto1.umap'
+[2022.10.06-14.21.09:210][528]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Fireplace_Hut' took 0.095
+[2022.10.06-14.21.09:210][528]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2022.10.06-14.21.51:261][484]BlueprintLog: New page: Compile Fire_Room
+[2022.10.06-14.21.51:300][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.10.06-14.24.29:928][339]BlueprintLog: New page: Compile Fire_Room
+[2022.10.06-14.24.29:969][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.10.06-14.24.30:392][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blockout/Blueprints/Fire_Room" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Blockout/Blueprints/Fire_Room.uasset" SILENT=true
+[2022.10.06-14.24.30:400][381]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Fire_RoomBF7924DC41F2AA8BCDAB62959C8E62EC.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Blockout/Blueprints/Fire_Room.uasset'
+[2022.10.06-14.24.30:413][381]AssetCheck: New page: Asset Save: Fire_Room
+[2022.10.06-14.24.30:413][381]LogContentValidation: Display: Validating Blueprint /Game/Blockout/Blueprints/Fire_Room.Fire_Room
+[2022.10.06-14.24.47:781][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.10.06-14.24.48:782][344]LogSlate: Window 'Save Content' being destroyed
+[2022.10.06-14.24.48:810][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Fireplace_Hut" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Fireplace_Hut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.06-14.24.48:833][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.06-14.24.48:908][344]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Fireplace_Hut85BCBD994F3C35545E687CA1452C3297.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Fireplace_Hut.umap'
+[2022.10.06-14.24.48:918][344]LogFileHelpers: Saving map 'Fireplace_Hut' took 0.109
+[2022.10.06-14.24.48:936][344]AssetCheck: New page: Asset Save: Fireplace_Hut
+[2022.10.06-14.24.48:936][344]LogContentValidation: Display: Validating World /Game/Levels/Fireplace_Hut.Fireplace_Hut
+[2022.10.06-14.27.04:131][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelf_Block)
+[2022.10.06-14.27.04:702][898]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box21)
+[2022.10.06-14.27.06:827][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.06-14.27.08:322][135]LogSlate: Window 'Save Content' being destroyed
+[2022.10.06-14.27.08:350][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/FireTest_P" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/FireTest_P.uasset" SILENT=true
+[2022.10.06-14.27.08:461][135]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/FireTest_P1ACC90D7456F55842B5E12BAA96691C0.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/FireTest_P.uasset'
+[2022.10.06-14.27.08:476][135]AssetCheck: New page: Asset Save: FireTest_P
+[2022.10.06-14.27.08:476][135]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/FireTest_P.FireTest_P
+[2022.10.06-14.27.11:398][447]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-14.27.11:447][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.06-14.27.11:472][447]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-14.27.11:473][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.06-14.27.11:676][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.10.06-14.27.21:751][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.06-14.27.23:763][866]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box21)
+[2022.10.06-14.27.24:198][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CatSeat_Block)
+[2022.10.06-14.27.24:699][951]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box8)
+[2022.10.06-14.27.25:566][ 52]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mesh_Cat_black)
+[2022.10.06-14.27.28:225][344]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box8)
+[2022.10.06-14.27.28:853][416]LogEditorViewport: Clicking on Actor (LMB): Blockout_Sphere_C (Blockout_Sphere)
+[2022.10.06-14.27.51:457][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
