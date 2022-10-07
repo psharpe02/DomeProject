@@ -1740,3 +1740,1395 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.07-14.54.18:159][609]LogFileHelpers: Saving map 'The_Kitchen' took 0.279
 [2022.10.07-14.54.18:172][609]AssetCheck: New page: Asset Save: The_Kitchen
 [2022.10.07-14.54.18:172][609]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.10.07-15.04.17:104][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.07-15.04.17:342][790]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Kitchen_Auto39CEAAECF489857512E1BEABAC631BE10.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/The_Kitchen_Auto3.umap'
+[2022.10.07-15.04.17:344][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/The_Kitchen' took 0.246
+[2022.10.07-15.04.17:344][790]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.246
+[2022.10.07-15.35.51:776][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.51:783][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.51:789][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.51:795][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.51:937][573]LogRenderer: Reallocating scene render targets to support 1160x700 Format 10 NumSamples 1 (Frame:207631).
+[2022.10.07-15.35.53:427][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.53:430][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.53:439][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.35.53:444][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.36.58:904][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Particles/Systems/Salt_Pepper_System.Salt_Pepper_System
+[2022.10.07-15.36.59:843][951]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 126 classes and 0 folders.
+[2022.10.07-15.37.02:031][951]LogSlate: Took 0.040208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.07-15.37.04:432][113]LogSlate: Window 'Salt_Pepper_System' being destroyed
+[2022.10.07-15.39.42:862][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.10.07-15.39.42:870][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/The_Kitchen' took 0.061
+[2022.10.07-15.39.42:870][686]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Particles/Systems/Salt_Pepper_System] ([2] browsable assets)...
+[2022.10.07-15.39.42:870][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles/Systems/Salt_Pepper_System]
+[2022.10.07-15.39.42:904][686]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Salt_Pepper_System_Auto4E6715EF7436DA0E34A09DFB5614CEB64.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Particles/Systems/Salt_Pepper_System_Auto4.uasset'
+[2022.10.07-15.39.42:906][686]LogFileHelpers: Auto-saving content packages took 0.036
+[2022.10.07-15.44.26:559][546]BlueprintLog: New page: Compile Salt_Pepper_System
+[2022.10.07-15.44.26:677][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.10.07-15.44.32:332][778]BlueprintLog: New page: Compile Salt_Pepper_System
+[2022.10.07-15.44.32:367][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.10.07-15.44.32:839][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Systems/Salt_Pepper_System" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Salt_Pepper_System.uasset" SILENT=true
+[2022.10.07-15.44.32:863][829]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Salt_Pepper_System0DBD0AE842DF0905D28A4F99B73ACA4F.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Salt_Pepper_System.uasset'
+[2022.10.07-15.44.32:877][829]AssetCheck: New page: Asset Save: Salt_Pepper_System
+[2022.10.07-15.44.32:877][829]LogContentValidation: Display: Validating Blueprint /Game/Particles/Systems/Salt_Pepper_System.Salt_Pepper_System
+[2022.10.07-15.44.35:328][ 35]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (Salt_P)
+[2022.10.07-15.44.54:045][205]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/LevelSequences/Kitchen_Hut_T1_LS.Kitchen_Hut_T1_LS
+[2022.10.07-15.45.06:141][179]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/LevelSequences/Kitchen_Hut_T2_LS.Kitchen_Hut_T2_LS
+[2022.10.07-15.50.27:267][267]Cmd: TRANSACTION UNDO
+[2022.10.07-15.50.27:267][267]LogEditorTransaction: Undo Select None
+[2022.10.07-15.51.48:188][331]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-15.51.48:270][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-15.51.48:293][331]PIE: New page: PIE session: The_Kitchen (7 Oct 2022, 17:51:48)
+[2022.10.07-15.51.48:396][331]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.07-15.51.48:412][331]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.07-15.51.48:443][331]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.10.07-15.51.48:568][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125430s)
+[2022.10.07-15.51.48:587][331]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.10.07-15.51.48:599][331]LogPlayLevel: PIE: World Init took: (0.030503s)
+[2022.10.07-15.51.48:599][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_Kitchen.The_Kitchen to /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen (0.156481s)
+[2022.10.07-15.51.48:621][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.10.07-15.51.48:629][331]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-15.51.48:629][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-15.51.48:629][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-15.51.48:630][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-15.51.48:630][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-15.51.48:630][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-15.51.48:630][331]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-15.51.48:637][331]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-15.51.48:637][331]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-15.51.48:643][331]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-15.51.48:643][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-15.51.48:643][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-15.51.48:643][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-15.51.48:643][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-15.51.48:643][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-15.51.48:643][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-15.51.48:644][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-15.51.48:644][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-15.51.48:644][331]LogInit: FAudioDevice initialized.
+[2022.10.07-15.51.48:644][331]LogAudio: Display: Audio Device (ID: 2) registered with world 'The_Kitchen'.
+[2022.10.07-15.51.48:696][331]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-15.51.48:802][331]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen up for play (max tick rate 0) at 2022.10.07-16.51.48
+[2022.10.07-15.51.48:834][331]LogWorld: Bringing up level for play took: 0.028913
+[2022.10.07-15.51.48:843][331]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.10.07-15.51.49:039][331]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.10.07-15.51.49:093][331]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-15.51.49:094][331]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-15.51.49:159][331]PIE: Server logged in
+[2022.10.07-15.51.49:177][331]PIE: Play in editor total start time 0.975 seconds.
+[2022.10.07-15.51.49:747][333]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 1 (Frame:2).
+[2022.10.07-15.52.01:550][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.52.01:550][432]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.10.07-15.52.01:551][432]Cmd: t.MaxFPS 120.0
+[2022.10.07-15.52.01:551][432]t.MaxFPS = "120"
+[2022.10.07-15.52.01:551][432]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-15.52.01:551][432]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-15.52.01:566][432]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-15.52.01:574][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-15.52.01:800][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-15.52.01:824][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-15.52.01:845][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-15.52.01:889][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-15.52.01:892][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-15.52.02:020][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.10.07-15.52.02:059][433]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.07-15.52.36:645][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.10.07-15.52.36:883][935]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Kitchen_Auto586A0EC5D493D671F57F546A4A7894DE6.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/The_Kitchen_Auto5.umap'
+[2022.10.07-15.52.36:885][935]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/The_Kitchen' took 0.310
+[2022.10.07-15.52.36:885][935]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.310
+[2022.10.07-15.52.53:165][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.10.07-15.52.57:024][670]LogEditorViewport: Clicking on Actor (LMB): Salt_Pepper_System_C (Salt_Pepper_System)
+[2022.10.07-16.00.19:972][747]BlueprintLog: New page: Compile Salt_Pepper_System
+[2022.10.07-16.00.20:021][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.10.07-16.00.23:931][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-16.00.23:942][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-16.00.23:942][ 77]PIE: New page: PIE session: The_Kitchen (7 Oct 2022, 18:00:23)
+[2022.10.07-16.00.23:942][ 77]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.10.07-16.00.24:011][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068987s)
+[2022.10.07-16.00.24:012][ 77]LogAIModule: Creating AISystem for world The_Kitchen
+[2022.10.07-16.00.24:013][ 77]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2022.10.07-16.00.24:013][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_Kitchen.The_Kitchen to /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen (0.070515s)
+[2022.10.07-16.00.24:038][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.10.07-16.00.24:040][ 77]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-16.00.24:040][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-16.00.24:040][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-16.00.24:041][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-16.00.24:041][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-16.00.24:041][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-16.00.24:041][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-16.00.24:048][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-16.00.24:048][ 77]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-16.00.24:052][ 77]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-16.00.24:053][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-16.00.24:053][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-16.00.24:053][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-16.00.24:053][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-16.00.24:053][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-16.00.24:053][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-16.00.24:054][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-16.00.24:054][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-16.00.24:054][ 77]LogInit: FAudioDevice initialized.
+[2022.10.07-16.00.24:054][ 77]LogAudio: Display: Audio Device (ID: 3) registered with world 'The_Kitchen'.
+[2022.10.07-16.00.24:062][ 77]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-16.00.24:068][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_Kitchen.The_Kitchen up for play (max tick rate 120) at 2022.10.07-17.00.24
+[2022.10.07-16.00.24:069][ 77]LogWorld: Bringing up level for play took: 0.006674
+[2022.10.07-16.00.24:069][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.10.07-16.00.24:072][ 77]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.00.24:072][ 77]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.00.24:073][ 77]PIE: Server logged in
+[2022.10.07-16.00.24:074][ 77]PIE: Play in editor total start time 0.133 seconds.
+[2022.10.07-16.00.37:429][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.00.37:430][195]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_Kitchen
+[2022.10.07-16.00.37:430][195]Cmd: t.MaxFPS 120.0
+[2022.10.07-16.00.37:430][195]t.MaxFPS = "120"
+[2022.10.07-16.00.37:430][195]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.00.37:430][195]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.00.37:430][195]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.00.37:432][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.00.37:721][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-16.00.37:732][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.00.37:753][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-16.00.37:753][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.00.37:754][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.00.37:757][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.00.37:770][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.10.07-16.00.37:806][196]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.07-16.02.50:606][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.10.07-16.02.50:864][636]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Kitchen_Auto64D4519344F1A88681B782989306F1725.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/The_Kitchen_Auto6.umap'
+[2022.10.07-16.02.50:865][636]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/The_Kitchen' took 0.284
+[2022.10.07-16.02.50:865][636]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.284
+[2022.10.07-16.02.50:866][636]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Particles/Systems/Salt_Pepper_System] ([2] browsable assets)...
+[2022.10.07-16.02.50:866][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles/Systems/Salt_Pepper_System]
+[2022.10.07-16.02.50:872][636]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Salt_Pepper_System_Auto6CA48901C438DD2E5FC5D77BC243AF512.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Particles/Systems/Salt_Pepper_System_Auto6.uasset'
+[2022.10.07-16.02.50:873][636]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.10.07-16.18.39:140][685]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Engine/Transient.World_6:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.07-16.18.39:140][685]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Engine/Transient.World_6:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.07-16.18.39:140][685]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Engine/Transient.World_6:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.07-16.18.39:140][685]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Engine/Transient.World_6:PersistentLevel.Camera_point_360_C_0
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.07-16.18.39:183][687]Cmd: r.PostProcessAAQuality 2
+[2022.10.07-16.18.39:184][687]r.PostProcessAAQuality = "2"
+[2022.10.07-16.18.39:184][687]Cmd: r.TextureStreaming 0
+[2022.10.07-16.18.39:184][687]r.TextureStreaming = "0"
+[2022.10.07-16.18.40:067][742]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/The_Kitchen.The_Kitchen:PersistentLevel.The_Kitchen
+[2022.10.07-16.18.46:394][307]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.18.46:394][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.18.51:288][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.10.07-16.18.52:557][705]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-16.18.52:585][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Systems/Salt_Pepper_System" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Salt_Pepper_System.uasset" SILENT=true
+[2022.10.07-16.18.52:590][705]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Salt_Pepper_System003B00BF4EF2F420BB927684099861AF.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Particles/Systems/Salt_Pepper_System.uasset'
+[2022.10.07-16.18.52:592][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_Kitchen" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-16.18.52:618][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.07-16.18.52:880][705]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Kitchen752A8ED04EE0C5B2F645B6B6E61584A3.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/The_Kitchen.umap'
+[2022.10.07-16.18.52:891][705]LogFileHelpers: Saving map 'The_Kitchen' took 0.301
+[2022.10.07-16.18.53:791][705]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.07-16.18.53:791][705]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.07-16.18.53:791][705]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.07-16.18.53:791][705]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.07-16.18.53:794][705]Cmd: r.PostProcessAAQuality 2
+[2022.10.07-16.18.53:795][705]r.PostProcessAAQuality = "2"
+[2022.10.07-16.18.53:795][705]Cmd: r.TextureStreaming 0
+[2022.10.07-16.18.53:795][705]r.TextureStreaming = "0"
+[2022.10.07-16.18.53:817][705]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.07-16.18.53:817][705]Cmd: MAP LOAD FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-16.18.53:817][705]LightingResults: New page: Lighting Build
+[2022.10.07-16.18.53:817][705]LoadErrors: New page: Loading map: Clearing_Forest.umap
+[2022.10.07-16.18.53:857][705]LogWorld: UWorld::CleanupWorld for The_Kitchen, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.18.53:858][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.18.53:858][705]MapCheck: New page: Map Check
+[2022.10.07-16.18.53:858][705]LightingResults: New page: Lighting Build
+[2022.10.07-16.18.53:881][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-16.18.53:925][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.10.07-16.18.53:932][705]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clearing_Forest'.
+[2022.10.07-16.18.53:976][705]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.07-16.18.53:976][705]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.07-16.18.53:976][705]LogScript: Warning: Accessed None trying to read property Target_Follow
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:05EF
+[2022.10.07-16.18.53:977][705]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Camera_point_360_C /Game/Levels/Clearing_Forest.Clearing_Forest:PersistentLevel.Camera_point_2
+	Function /Game/Camera_360/Blueprints/Camera_point_360.Camera_point_360_C:UserConstructionScript:0621
+[2022.10.07-16.18.53:982][705]Cmd: r.PostProcessAAQuality 2
+[2022.10.07-16.18.53:982][705]r.PostProcessAAQuality = "2"
+[2022.10.07-16.18.53:982][705]Cmd: r.TextureStreaming 0
+[2022.10.07-16.18.53:982][705]r.TextureStreaming = "0"
+[2022.10.07-16.18.54:168][705]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-16.18.54:168][705]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-16.18.54:197][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.10.07-16.18.54:206][705]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-16.18.54:207][705]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.691ms to complete.
+[2022.10.07-16.18.54:207][705]LogFileHelpers: Loading map 'Clearing_Forest' took 0.389
+[2022.10.07-16.18.54:230][705]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-16.18.54:230][705]LogContentValidation: Display: Validating Blueprint /Game/Particles/Systems/Salt_Pepper_System.Salt_Pepper_System
+[2022.10.07-16.18.54:230][705]LogContentValidation: Display: Validating World /Game/Levels/The_Kitchen.The_Kitchen
+[2022.10.07-16.18.54:294][705]Cmd: r.PostProcessAAQuality 2
+[2022.10.07-16.18.54:294][705]r.PostProcessAAQuality = "2"
+[2022.10.07-16.18.54:294][705]Cmd: r.TextureStreaming 0
+[2022.10.07-16.18.54:294][705]r.TextureStreaming = "0"
+[2022.10.07-16.19.14:385][994]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-16.19.40:843][961]LogTexture: Display: Building textures: T_Crow_Specular (OODLE_AutoDXT, 32X32)
+[2022.10.07-16.19.40:843][961]LogTexture: Display: Building textures: T_Crow_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.10.07-16.19.40:843][961]LogTexture: Display: Building textures: T_Crow_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.10.07-16.19.40:843][961]LogTexture: Display: Building textures: T_Crow_Nml (OODLE_BC5, 2048X2048)
+[2022.10.07-16.19.40:843][961]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.07-16.19.40:843][961]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.07-16.19.40:843][961]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.07-16.19.40:843][961]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.07-16.19.40:843][961]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.10.07-16.19.40:843][961]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.10.07-16.19.40:843][961]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: 37233F810782BD08504DCE15C66470EDC53FA2EA), compiling. 
+[2022.10.07-16.19.40:970][961]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.10.07-16.19.40:971][961]LogSkeletalMesh: Building Skeletal Mesh SK_Crow...
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 74
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 67
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 60
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 53
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 46
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 39
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 25
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.10.07-16.19.41:001][961]LogShaderCompilers: Display: Started 74 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-16.19.41:001][961]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Plugins/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2022.10.07-16.19.42:809][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.07-16.19.42:809][ 32]LogShaderCompilers: Display: Total job queries 134, among them cache hits 28 (20.90%)
+[2022.10.07-16.19.42:809][ 32]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 26 distinct outputs (72.22%)
+[2022.10.07-16.19.42:809][ 32]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.10.07-16.19.42:809][ 32]LogShaderCompilers: Display: ================================================
+[2022.10.07-16.21.41:797][602]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Plugins/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly
+[2022.10.07-16.21.58:515][426]Cmd: DELETE
+[2022.10.07-16.21.58:515][426]Cmd: ACTOR DELETE
+[2022.10.07-16.21.58:520][426]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.10.07-16.21.58:550][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.07-16.21.58:560][426]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.10.07-16.22.00:588][639]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Plugins/AnimalVarietyPack/Crow/Animations/ANIM_Crow_DeathGrounded.ANIM_Crow_DeathGrounded
+[2022.10.07-16.22.02:034][797]Cmd: DELETE
+[2022.10.07-16.22.02:034][797]Cmd: ACTOR DELETE
+[2022.10.07-16.22.02:039][797]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.10.07-16.22.02:065][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.10.07-16.22.02:067][797]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.10.07-16.23.09:341][ 56]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.07-16.23.09:359][ 56]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.07-16.23.11:741][339]LogContentBrowser: Attempting asset rename: NewFolder -> BP
+[2022.10.07-16.23.11:741][339]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.07-16.25.11:924][212]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.07-16.25.15:334][212]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.07-16.25.15:368][212]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.07-16.25.15:381][212]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.07-16.25.20:887][872]LogContentBrowser: Attempting asset rename: NewBlueprint -> Crow_BP
+[2022.10.07-16.25.20:939][872]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.07-16.25.23:322][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.Crow_BP
+[2022.10.07-16.25.37:202][709]BlueprintLog: New page: Compile Crow_BP
+[2022.10.07-16.25.37:250][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.10.07-16.25.47:352][887]BlueprintLog: New page: Compile Crow_BP
+[2022.10.07-16.25.47:394][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.10.07-16.25.48:353][989]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Crow_BP18BD5A1E4E4711AE3E9C3497D1520419.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.uasset'
+[2022.10.07-16.25.48:371][989]AssetCheck: New page: Asset Save: Crow_BP
+[2022.10.07-16.25.48:371][989]LogContentValidation: Display: Validating Blueprint /Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.Crow_BP
+[2022.10.07-16.26.01:426][520]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Crow)
+[2022.10.07-16.26.02:254][593]Cmd: DELETE
+[2022.10.07-16.26.02:254][593]Cmd: ACTOR DELETE
+[2022.10.07-16.26.02:260][593]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.10.07-16.26.02:290][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.10.07-16.26.02:291][593]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.10.07-16.26.10:464][523]Cmd: DELETE
+[2022.10.07-16.26.10:464][523]Cmd: ACTOR DELETE
+[2022.10.07-16.26.10:469][523]LogEditorActor: Deleted Actor: Crow_BP_C
+[2022.10.07-16.26.10:499][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.07-16.26.10:500][523]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.10.07-16.26.19:007][487]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-16.26.19:014][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-16.26.19:014][487]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 18:26:19)
+[2022.10.07-16.26.19:049][487]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.26.19:072][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022715s)
+[2022.10.07-16.26.19:072][487]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-16.26.19:078][487]LogPlayLevel: PIE: World Init took: (0.006143s)
+[2022.10.07-16.26.19:078][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.029041s)
+[2022.10.07-16.26.19:108][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.10.07-16.26.19:109][487]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-16.26.19:109][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-16.26.19:109][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-16.26.19:109][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-16.26.19:109][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-16.26.19:110][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-16.26.19:110][487]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-16.26.19:117][487]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-16.26.19:117][487]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-16.26.19:121][487]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-16.26.19:121][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-16.26.19:121][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-16.26.19:121][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-16.26.19:122][487]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-16.26.19:122][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-16.26.19:122][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-16.26.19:123][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-16.26.19:123][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-16.26.19:123][487]LogInit: FAudioDevice initialized.
+[2022.10.07-16.26.19:123][487]LogAudio: Display: Audio Device (ID: 4) registered with world 'Clearing_Forest'.
+[2022.10.07-16.26.19:133][487]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-16.26.19:136][487]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-17.26.19
+[2022.10.07-16.26.19:159][487]LogWorld: Bringing up level for play took: 0.025757
+[2022.10.07-16.26.19:159][487]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.10.07-16.26.19:176][487]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-16.26.19:176][487]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-16.26.19:180][487]PIE: Server logged in
+[2022.10.07-16.26.19:181][487]PIE: Play in editor total start time 0.168 seconds.
+[2022.10.07-16.26.21:450][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.26.21:450][543]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.26.21:450][543]Cmd: t.MaxFPS 120.0
+[2022.10.07-16.26.21:450][543]t.MaxFPS = "120"
+[2022.10.07-16.26.21:450][543]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.26.21:450][543]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.26.21:475][543]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.26.21:476][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.26.21:489][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-16.26.21:501][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.26.21:527][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-16.26.21:527][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.26.21:529][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.26.21:530][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.26.21:537][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.10.07-16.26.21:570][544]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.07-16.26.22:778][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.07-16.26.24:210][805]Cmd: DELETE
+[2022.10.07-16.26.24:210][805]Cmd: ACTOR DELETE
+[2022.10.07-16.26.24:215][805]LogEditorActor: Deleted Actor: Crow_BP_C
+[2022.10.07-16.26.24:246][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.10.07-16.26.24:247][805]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.10.07-16.26.41:316][809]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-16.28.53:930][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.10.07-16.28.54:030][490]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest_Auto7EC2858144DC1E4432E065DB85F57B9C9.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/Clearing_Forest_Auto7.umap'
+[2022.10.07-16.28.54:032][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Clearing_Forest' took 0.174
+[2022.10.07-16.28.54:032][490]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.174
+[2022.10.07-16.28.54:032][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/LevelSequences/The_Clearing_LS] ([1] browsable assets)...
+[2022.10.07-16.28.54:032][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/LevelSequences/The_Clearing_LS]
+[2022.10.07-16.28.54:035][490]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Clearing_LS_Auto77D9B8B8846C40D4DECA81CA809B2545F.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/LevelSequences/The_Clearing_LS_Auto7.uasset'
+[2022.10.07-16.28.54:036][490]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.10.07-16.29.39:228][404]LogEditor: Attempting to add actor of class 'CameraRig_Rail' to level at 2885.00,7985.00,-1120.00
+[2022.10.07-16.29.39:913][472]LogEditor: Attempting to add actor of class 'CameraRig_Rail' to level at 2350.00,4595.00,-1145.00
+[2022.10.07-16.30.14:552][140]Cmd: TRANSACTION UNDO
+[2022.10.07-16.30.14:553][140]LogEditorTransaction: Undo Move Actors
+[2022.10.07-16.30.54:082][474]Cmd: TRANSACTION UNDO
+[2022.10.07-16.30.54:082][474]LogEditorTransaction: Undo Select Spline Segment
+[2022.10.07-16.30.54:524][495]Cmd: TRANSACTION UNDO
+[2022.10.07-16.30.54:524][495]LogEditorTransaction: Undo Move Actors
+[2022.10.07-16.32.56:166][935]LogEditorViewport: Clicking on Actor (LMB): Crow_BP_C (Crow_BP)
+[2022.10.07-16.33.32:164][991]Cmd: TRANSACTION UNDO
+[2022.10.07-16.33.32:164][991]LogEditorTransaction: Undo Rotate Actors
+[2022.10.07-16.33.33:178][ 78]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2022.10.07-16.33.33:657][132]LogEditorViewport: Clicking on Actor (LMB): Crow_BP_C (Crow_BP)
+[2022.10.07-16.34.07:464][685]LogEditorTransaction: Undo Set Rotation
+[2022.10.07-16.34.14:051][371]LogEditorTransaction: Undo Set Rotation
+[2022.10.07-16.35.35:434][479]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2022.10.07-16.35.35:976][541]Cmd: TRANSACTION UNDO
+[2022.10.07-16.35.35:977][541]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.07-16.35.36:465][565]Cmd: TRANSACTION UNDO
+[2022.10.07-16.35.36:465][565]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.35.36:933][617]Cmd: TRANSACTION UNDO
+[2022.10.07-16.35.36:933][617]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.36.16:187][141]Cmd: TRANSACTION UNDO
+[2022.10.07-16.36.16:187][141]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.36.16:812][181]Cmd: TRANSACTION UNDO
+[2022.10.07-16.36.16:812][181]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.36.18:631][396]Cmd: TRANSACTION UNDO
+[2022.10.07-16.36.18:631][396]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.36.29:854][706]Cmd: TRANSACTION UNDO
+[2022.10.07-16.36.29:854][706]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.36.30:290][729]Cmd: TRANSACTION UNDO
+[2022.10.07-16.36.30:291][729]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.36.31:248][837]Cmd: TRANSACTION UNDO
+[2022.10.07-16.36.31:248][837]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.10.07-16.37.42:644][493]Cmd: TRANSACTION UNDO
+[2022.10.07-16.37.42:644][493]LogEditorTransaction: Undo Set Playback Range
+[2022.10.07-16.39.00:240][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.10.07-16.39.00:348][258]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest_Auto862689D2A4B94504DC814049DEC3638C0.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/Clearing_Forest_Auto8.umap'
+[2022.10.07-16.39.00:350][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Clearing_Forest' took 0.142
+[2022.10.07-16.39.00:350][258]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2022.10.07-16.39.00:351][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/LevelSequences/The_Clearing_LS] ([1] browsable assets)...
+[2022.10.07-16.39.00:351][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/LevelSequences/The_Clearing_LS]
+[2022.10.07-16.39.00:354][258]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Clearing_LS_Auto831EB2C834479243FE41B738A563056F0.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Levels/LevelSequences/The_Clearing_LS_Auto8.uasset'
+[2022.10.07-16.39.00:356][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP] ([4] browsable assets)...
+[2022.10.07-16.39.00:356][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP]
+[2022.10.07-16.39.00:359][258]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Crow_BP_Auto89995A2E8444D02DEA63B88B8866877A3.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Autosaves/Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP_Auto8.uasset'
+[2022.10.07-16.39.00:360][258]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.10.07-16.40.59:013][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.40.59:019][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.40.59:025][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.40.59:031][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.43.20:555][ 89]Cmd: TRANSACTION UNDO
+[2022.10.07-16.43.20:555][ 89]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.10.07-16.43.21:306][143]Cmd: TRANSACTION UNDO
+[2022.10.07-16.43.21:306][143]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.43.22:428][274]Cmd: TRANSACTION UNDO
+[2022.10.07-16.43.22:428][274]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.43.48:994][408]Cmd: TRANSACTION UNDO
+[2022.10.07-16.43.48:994][408]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.44.17:892][720]Cmd: TRANSACTION UNDO
+[2022.10.07-16.44.17:892][720]LogEditorTransaction: Undo Move Actors
+[2022.10.07-16.44.18:712][783]Cmd: TRANSACTION UNDO
+[2022.10.07-16.44.18:712][783]LogEditorTransaction: Undo Delete Keys
+[2022.10.07-16.44.33:427][529]Cmd: TRANSACTION UNDO
+[2022.10.07-16.44.33:427][529]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.44.52:536][744]Cmd: TRANSACTION UNDO
+[2022.10.07-16.44.52:536][744]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.44.52:977][766]Cmd: TRANSACTION UNDO
+[2022.10.07-16.44.52:977][766]LogEditorTransaction: Undo Set Key Value
+[2022.10.07-16.46.46:528][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.10.07-16.46.47:657][559]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-16.46.47:680][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-16.46.47:707][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.07-16.46.47:816][559]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest3612DF7E464E5E77817D34A554A8DD93.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.10.07-16.46.47:829][559]LogFileHelpers: Saving map 'Clearing_Forest' took 0.151
+[2022.10.07-16.46.47:833][559]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Crow_BP461F53E34BA4C7E708D946BAA594D3CA.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.uasset'
+[2022.10.07-16.46.47:834][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelSequences/The_Clearing_LS" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset" SILENT=true
+[2022.10.07-16.46.47:838][559]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Clearing_LSF85D0AC54114AA85021A2FA3C6DE295C.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset'
+[2022.10.07-16.46.47:856][559]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-16.46.47:856][559]LogContentValidation: Display: Validating Blueprint /Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.Crow_BP
+[2022.10.07-16.46.47:856][559]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.07-16.46.47:856][559]LogContentValidation: Display: Validating LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-16.47.21:574][502]Cmd: TRANSACTION UNDO
+[2022.10.07-16.47.21:574][502]LogEditorTransaction: Undo Move Keys or Sections
+[2022.10.07-16.47.22:501][577]Cmd: TRANSACTION UNDO
+[2022.10.07-16.47.22:501][577]LogEditorTransaction: Undo Select Actors/Components
+[2022.10.07-16.47.56:816][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.10.07-16.47.57:604][551]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-16.47.57:626][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-16.47.57:653][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.07-16.47.57:739][551]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest3464E2E54F678B96A2D177999A0FC055.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.10.07-16.47.57:749][551]LogFileHelpers: Saving map 'Clearing_Forest' took 0.124
+[2022.10.07-16.47.57:750][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelSequences/The_Clearing_LS" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset" SILENT=true
+[2022.10.07-16.47.57:754][551]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Clearing_LS0067535241339BD4DD68EBAD8275CBBF.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset'
+[2022.10.07-16.47.57:768][551]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-16.47.57:768][551]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.07-16.47.57:768][551]LogContentValidation: Display: Validating LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-16.48.27:567][160]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.10.07-16.48.27:574][160]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.10.07-16.49.00:119][787]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.10.07-16.49.00:126][787]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.10.07-16.49.48:039][310]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.10.07-16.50.31:447][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.07-16.50.32:219][688]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-16.50.32:242][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelSequences/The_Clearing_LS" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset" SILENT=true
+[2022.10.07-16.50.32:246][688]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Clearing_LS10F93FEB4980FC54196CC0B17306F0E9.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset'
+[2022.10.07-16.50.32:262][688]AssetCheck: New page: Asset Save: The_Clearing_LS
+[2022.10.07-16.50.32:262][688]LogContentValidation: Display: Validating LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-16.50.33:348][814]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-16.50.33:356][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-16.50.33:356][814]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 18:50:33)
+[2022.10.07-16.50.33:356][814]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.50.33:379][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023076s)
+[2022.10.07-16.50.33:380][814]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-16.50.33:380][814]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.10.07-16.50.33:380][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.024179s)
+[2022.10.07-16.50.33:409][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.10.07-16.50.33:410][814]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-16.50.33:410][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-16.50.33:410][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-16.50.33:411][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-16.50.33:411][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-16.50.33:411][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-16.50.33:411][814]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-16.50.33:418][814]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-16.50.33:418][814]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-16.50.33:423][814]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-16.50.33:423][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-16.50.33:423][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-16.50.33:423][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-16.50.33:424][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-16.50.33:424][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-16.50.33:424][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-16.50.33:425][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-16.50.33:425][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-16.50.33:425][814]LogInit: FAudioDevice initialized.
+[2022.10.07-16.50.33:425][814]LogAudio: Display: Audio Device (ID: 5) registered with world 'Clearing_Forest'.
+[2022.10.07-16.50.33:432][814]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-16.50.33:436][814]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-17.50.33
+[2022.10.07-16.50.33:436][814]LogWorld: Bringing up level for play took: 0.004101
+[2022.10.07-16.50.33:436][814]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.10.07-16.50.33:439][814]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-16.50.33:439][814]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-16.50.33:440][814]PIE: Server logged in
+[2022.10.07-16.50.33:441][814]PIE: Play in editor total start time 0.087 seconds.
+[2022.10.07-16.51.02:162][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.51.02:162][521]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.51.02:162][521]Cmd: t.MaxFPS 120.0
+[2022.10.07-16.51.02:162][521]t.MaxFPS = "120"
+[2022.10.07-16.51.02:162][521]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.51.02:162][521]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.51.02:162][521]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.51.02:163][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.51.02:198][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-16.51.02:212][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.51.02:239][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.51.02:240][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.51.02:241][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.51.02:249][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.10.07-16.51.02:279][522]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.10.07-16.51.07:150][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-16.51.07:157][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-16.51.07:157][ 77]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 18:51:07)
+[2022.10.07-16.51.07:157][ 77]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.51.07:180][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022881s)
+[2022.10.07-16.51.07:181][ 77]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-16.51.07:181][ 77]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2022.10.07-16.51.07:181][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.023967s)
+[2022.10.07-16.51.07:211][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.10.07-16.51.07:213][ 77]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-16.51.07:213][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-16.51.07:213][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-16.51.07:213][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-16.51.07:213][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-16.51.07:213][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-16.51.07:222][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-16.51.07:222][ 77]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-16.51.07:227][ 77]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-16.51.07:227][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-16.51.07:227][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-16.51.07:227][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-16.51.07:228][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-16.51.07:228][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-16.51.07:228][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-16.51.07:229][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-16.51.07:229][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-16.51.07:229][ 77]LogInit: FAudioDevice initialized.
+[2022.10.07-16.51.07:229][ 77]LogAudio: Display: Audio Device (ID: 6) registered with world 'Clearing_Forest'.
+[2022.10.07-16.51.07:239][ 77]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-16.51.07:244][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-17.51.07
+[2022.10.07-16.51.07:245][ 77]LogWorld: Bringing up level for play took: 0.005267
+[2022.10.07-16.51.07:245][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.10.07-16.51.07:248][ 77]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-16.51.07:248][ 77]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-16.51.07:249][ 77]PIE: Server logged in
+[2022.10.07-16.51.07:250][ 77]PIE: Play in editor total start time 0.094 seconds.
+[2022.10.07-16.51.46:182][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.51.46:182][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.51.46:182][168]Cmd: t.MaxFPS 120.0
+[2022.10.07-16.51.46:182][168]t.MaxFPS = "120"
+[2022.10.07-16.51.46:182][168]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.51.46:182][168]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.51.46:182][168]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.51.46:183][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.51.46:202][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-16.51.46:215][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.51.46:241][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.51.46:242][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.51.46:243][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.51.46:251][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.10.07-16.51.46:285][169]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.10.07-16.51.50:159][618]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.07-16.56.54:764][191]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-16.56.54:771][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-16.56.54:771][191]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 18:56:54)
+[2022.10.07-16.56.54:771][191]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.56.54:795][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023448s)
+[2022.10.07-16.56.54:796][191]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-16.56.54:796][191]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2022.10.07-16.56.54:796][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.024602s)
+[2022.10.07-16.56.54:826][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.10.07-16.56.54:827][191]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.07-16.56.54:827][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-16.56.54:827][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-16.56.54:827][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-16.56.54:827][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-16.56.54:827][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-16.56.54:828][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-16.56.54:828][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-16.56.54:828][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-16.56.54:828][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-16.56.54:828][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-16.56.54:828][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-16.56.54:828][191]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-16.56.54:836][191]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-16.56.54:836][191]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-16.56.54:841][191]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-16.56.54:842][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-16.56.54:842][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-16.56.54:842][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-16.56.54:842][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-16.56.54:842][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-16.56.54:842][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-16.56.54:843][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-16.56.54:843][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-16.56.54:843][191]LogInit: FAudioDevice initialized.
+[2022.10.07-16.56.54:843][191]LogAudio: Display: Audio Device (ID: 7) registered with world 'Clearing_Forest'.
+[2022.10.07-16.56.54:854][191]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-16.56.54:858][191]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-17.56.54
+[2022.10.07-16.56.54:858][191]LogWorld: Bringing up level for play took: 0.003974
+[2022.10.07-16.56.54:859][191]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.10.07-16.56.54:861][191]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-16.56.54:861][191]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-16.56.54:862][191]PIE: Server logged in
+[2022.10.07-16.56.54:863][191]PIE: Play in editor total start time 0.093 seconds.
+[2022.10.07-16.57.12:851][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.57.12:851][635]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.57.12:851][635]Cmd: t.MaxFPS 120.0
+[2022.10.07-16.57.12:851][635]t.MaxFPS = "120"
+[2022.10.07-16.57.12:851][635]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.57.12:852][635]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.57.12:852][635]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.57.12:853][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.57.12:870][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-16.57.12:886][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.57.12:913][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-16.57.12:913][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.57.12:914][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.57.12:916][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.57.12:922][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.10.07-16.57.12:948][636]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.07-16.58.24:610][735]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-16.58.24:617][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-16.58.24:617][735]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 18:58:24)
+[2022.10.07-16.58.24:617][735]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.58.24:640][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023464s)
+[2022.10.07-16.58.24:641][735]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-16.58.24:641][735]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2022.10.07-16.58.24:641][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.024531s)
+[2022.10.07-16.58.24:670][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.07-16.58.24:672][735]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-16.58.24:672][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-16.58.24:672][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-16.58.24:673][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-16.58.24:673][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-16.58.24:673][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-16.58.24:673][735]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-16.58.24:681][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-16.58.24:681][735]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-16.58.24:686][735]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-16.58.24:686][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-16.58.24:686][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-16.58.24:686][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-16.58.24:686][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-16.58.24:686][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-16.58.24:686][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-16.58.24:687][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-16.58.24:687][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-16.58.24:687][735]LogInit: FAudioDevice initialized.
+[2022.10.07-16.58.24:687][735]LogAudio: Display: Audio Device (ID: 8) registered with world 'Clearing_Forest'.
+[2022.10.07-16.58.24:697][735]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-16.58.24:701][735]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-17.58.24
+[2022.10.07-16.58.24:701][735]LogWorld: Bringing up level for play took: 0.003919
+[2022.10.07-16.58.24:701][735]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.10.07-16.58.24:704][735]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-16.58.24:704][735]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-16.58.24:705][735]PIE: Server logged in
+[2022.10.07-16.58.24:706][735]PIE: Play in editor total start time 0.09 seconds.
+[2022.10.07-16.58.37:741][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.58.37:741][ 55]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-16.58.37:741][ 55]Cmd: t.MaxFPS 120.0
+[2022.10.07-16.58.37:741][ 55]t.MaxFPS = "120"
+[2022.10.07-16.58.37:741][ 55]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-16.58.37:741][ 55]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-16.58.37:742][ 55]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-16.58.37:742][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.58.37:761][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-16.58.37:775][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-16.58.37:802][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-16.58.37:802][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.58.37:803][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-16.58.37:805][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-16.58.37:810][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.10.07-16.58.37:844][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.10.07-16.58.42:438][561]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-17.00.13:132][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-17.00.13:138][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-17.00.13:138][738]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 19:00:13)
+[2022.10.07-17.00.13:138][738]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-17.00.13:162][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023660s)
+[2022.10.07-17.00.13:163][738]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-17.00.13:163][738]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2022.10.07-17.00.13:163][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.024772s)
+[2022.10.07-17.00.13:194][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.07-17.00.13:198][738]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-17.00.13:198][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-17.00.13:198][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-17.00.13:198][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-17.00.13:198][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-17.00.13:198][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-17.00.13:206][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-17.00.13:206][738]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-17.00.13:211][738]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-17.00.13:211][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-17.00.13:211][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-17.00.13:211][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-17.00.13:212][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-17.00.13:212][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-17.00.13:212][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-17.00.13:213][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-17.00.13:213][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-17.00.13:213][738]LogInit: FAudioDevice initialized.
+[2022.10.07-17.00.13:213][738]LogAudio: Display: Audio Device (ID: 9) registered with world 'Clearing_Forest'.
+[2022.10.07-17.00.13:226][738]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-17.00.13:230][738]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-18.00.13
+[2022.10.07-17.00.13:231][738]LogWorld: Bringing up level for play took: 0.004295
+[2022.10.07-17.00.13:231][738]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.10.07-17.00.13:234][738]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-17.00.13:234][738]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-17.00.13:235][738]PIE: Server logged in
+[2022.10.07-17.00.13:236][738]PIE: Play in editor total start time 0.099 seconds.
+[2022.10.07-17.00.26:062][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-17.00.26:062][ 47]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-17.00.26:062][ 47]Cmd: t.MaxFPS 120.0
+[2022.10.07-17.00.26:062][ 47]t.MaxFPS = "120"
+[2022.10.07-17.00.26:062][ 47]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-17.00.26:062][ 47]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-17.00.26:063][ 47]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.00.26:064][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-17.00.26:138][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-17.00.26:151][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-17.00.26:178][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-17.00.26:178][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-17.00.26:179][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-17.00.26:182][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-17.00.26:189][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.10.07-17.00.26:224][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.10.07-17.00.51:857][898]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail1)
+[2022.10.07-17.00.54:018][130]Cmd: DELETE
+[2022.10.07-17.00.54:018][130]Cmd: ACTOR DELETE
+[2022.10.07-17.00.54:023][130]LogEditorActor: Deleted Actor: CameraRig_Rail
+[2022.10.07-17.00.54:054][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.07-17.00.54:057][130]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.10.07-17.01.07:608][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.07-17.01.08:549][663]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-17.01.08:570][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-17.01.08:597][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.07-17.01.08:682][663]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest9FECAD574342ADF855DF3C82443769A8.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.10.07-17.01.08:692][663]LogFileHelpers: Saving map 'Clearing_Forest' took 0.123
+[2022.10.07-17.01.08:692][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelSequences/The_Clearing_LS" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset" SILENT=true
+[2022.10.07-17.01.08:695][663]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/The_Clearing_LSFF6350AF4180AF56FCDA40A3FF25DE3B.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/LevelSequences/The_Clearing_LS.uasset'
+[2022.10.07-17.01.08:710][663]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-17.01.08:711][663]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.07-17.01.08:711][663]LogContentValidation: Display: Validating LevelSequence /Game/Levels/LevelSequences/The_Clearing_LS.The_Clearing_LS
+[2022.10.07-17.01.13:716][250]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-17.01.13:723][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-17.01.13:723][250]PIE: New page: PIE session: Clearing_Forest (7 Oct 2022, 19:01:13)
+[2022.10.07-17.01.13:723][250]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-17.01.13:749][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025420s)
+[2022.10.07-17.01.13:750][250]LogAIModule: Creating AISystem for world Clearing_Forest
+[2022.10.07-17.01.13:750][250]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2022.10.07-17.01.13:750][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Clearing_Forest.Clearing_Forest to /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest (0.026765s)
+[2022.10.07-17.01.13:779][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.10.07-17.01.13:780][250]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-17.01.13:780][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-17.01.13:780][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-17.01.13:781][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-17.01.13:781][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-17.01.13:781][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-17.01.13:781][250]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-17.01.13:787][250]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-17.01.13:787][250]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-17.01.13:791][250]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Audio Controller - Chat)
+[2022.10.07-17.01.13:792][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-17.01.13:792][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-17.01.13:792][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-17.01.13:792][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-17.01.13:792][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-17.01.13:792][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-17.01.13:793][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-17.01.13:793][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-17.01.13:793][250]LogInit: FAudioDevice initialized.
+[2022.10.07-17.01.13:793][250]LogAudio: Display: Audio Device (ID: 10) registered with world 'Clearing_Forest'.
+[2022.10.07-17.01.13:800][250]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-17.01.13:804][250]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Clearing_Forest.Clearing_Forest up for play (max tick rate 120) at 2022.10.07-18.01.13
+[2022.10.07-17.01.13:805][250]LogWorld: Bringing up level for play took: 0.004421
+[2022.10.07-17.01.13:805][250]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.07-17.01.13:808][250]Cmd: r.raytracing.ForceAllRayTracingEffects 0
+[2022.10.07-17.01.13:808][250]r.RayTracing.ForceAllRayTracingEffects = "0"
+[2022.10.07-17.01.13:809][250]PIE: Server logged in
+[2022.10.07-17.01.13:810][250]PIE: Play in editor total start time 0.088 seconds.
+[2022.10.07-17.01.15:031][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-17.01.15:031][286]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Clearing_Forest
+[2022.10.07-17.01.15:032][286]Cmd: t.MaxFPS 120.0
+[2022.10.07-17.01.15:032][286]t.MaxFPS = "120"
+[2022.10.07-17.01.15:032][286]Cmd: r.raytracing.ForceAllRayTracingEffects -1
+[2022.10.07-17.01.15:032][286]r.RayTracing.ForceAllRayTracingEffects = "-1"
+[2022.10.07-17.01.15:032][286]LogWorld: UWorld::CleanupWorld for Clearing_Forest, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.01.15:033][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-17.01.15:059][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-17.01.15:067][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-17.01.15:094][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-17.01.15:096][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-17.01.15:097][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-17.01.15:099][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-17.01.15:106][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.10.07-17.01.15:126][287]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.07-17.01.26:381][609]LogEditorViewport: Clicking on Actor (LMB): Crow_BP_C (Crow_BP)
+[2022.10.07-17.01.40:325][184]LogEditorViewport: Clicking on Actor (LMB): Crow_BP_C (Crow_BP)
+[2022.10.07-17.02.04:124][951]BlueprintLog: New page: Compile Crow_BP
+[2022.10.07-17.02.04:176][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.10.07-17.03.33:851][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.10.07-17.03.34:813][684]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-17.03.34:832][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Clearing_Forest" FILE="C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-17.03.34:859][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.07-17.03.34:943][684]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Clearing_Forest4F24131F4A90E6D7B5491BA3F5781000.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Levels/Clearing_Forest.umap'
+[2022.10.07-17.03.34:954][684]LogFileHelpers: Saving map 'Clearing_Forest' took 0.123
+[2022.10.07-17.03.34:984][684]LogSavePackage: Moving 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Saved/Crow_BPA6301999491F8AC3BE2CC992B7E1DCF6.tmp' to 'C:/Users/karlo/OneDrive/Documents/GitHub/DomeProject/Content/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.uasset'
+[2022.10.07-17.03.34:999][684]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-17.03.34:999][684]LogContentValidation: Display: Validating Blueprint /Game/Plugins/AnimalVarietyPack/Crow/BP/Crow_BP.Crow_BP
+[2022.10.07-17.03.34:999][684]LogContentValidation: Display: Validating World /Game/Levels/Clearing_Forest.Clearing_Forest
+[2022.10.07-17.03.46:240][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.10.07-17.03.46:304][818]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.46:307][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-17.03.46:436][818]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.07-17.03.46:436][818]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.46:436][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-17.03.46:568][818]LogSlate: Window 'BabaYagaDomeProject - Unreal Editor' being destroyed
+[2022.10.07-17.03.46:823][819]Cmd: QUIT_EDITOR
+[2022.10.07-17.03.46:823][819]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.10.07-17.03.46:896][819]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.07-17.03.47:453][819]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.07-17.03.47:453][819]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.07-17.03.47:453][819]LogAudio: Display: Audio Device unregistered from world 'Clearing_Forest'.
+[2022.10.07-17.03.47:453][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-17.03.47:455][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-17.03.47:485][819]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.07-17.03.47:499][819]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.07-17.03.47:519][819]LogExit: Preparing to exit.
+[2022.10.07-17.03.47:859][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.10.07-17.03.48:512][819]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:516][819]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:521][819]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:524][819]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:528][819]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:531][819]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:535][819]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:538][819]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:542][819]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:545][819]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:549][819]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.48:855][819]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.07-17.03.49:274][819]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-17.03.49:275][819]LogExit: Editor shut down
+[2022.10.07-17.03.49:277][819]LogExit: Transaction tracking system shut down
+[2022.10.07-17.03.52:035][819]LogExit: Object subsystem successfully closed.
+[2022.10.07-17.03.52:059][819]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.07-17.03.52:059][819]LogShaderCompilers: Display: Total job queries 136, among them cache hits 30 (22.06%)
+[2022.10.07-17.03.52:059][819]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 85 distinct outputs (80.19%)
+[2022.10.07-17.03.52:059][819]LogShaderCompilers: Display: RAM used: 0.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2022.10.07-17.03.52:059][819]LogShaderCompilers: Display: ================================================
+[2022.10.07-17.03.52:228][819]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.07-17.03.54:062][819]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (888)
+[2022.10.07-17.03.54:062][819]LogModuleManager: Shutting down and abandoning module Voice (886)
+[2022.10.07-17.03.54:069][819]LogModuleManager: Shutting down and abandoning module BlueprintGraph (884)
+[2022.10.07-17.03.54:069][819]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (882)
+[2022.10.07-17.03.54:083][819]LogModuleManager: Shutting down and abandoning module SequencerWidgets (880)
+[2022.10.07-17.03.54:083][819]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (878)
+[2022.10.07-17.03.54:083][819]LogModuleManager: Shutting down and abandoning module SceneOutliner (876)
+[2022.10.07-17.03.54:084][819]LogModuleManager: Shutting down and abandoning module AddContentDialog (874)
+[2022.10.07-17.03.54:121][819]LogModuleManager: Shutting down and abandoning module WidgetCarousel (873)
+[2022.10.07-17.03.54:121][819]LogModuleManager: Shutting down and abandoning module EditorWidgets (870)
+[2022.10.07-17.03.54:121][819]LogModuleManager: Shutting down and abandoning module StatsViewer (868)
+[2022.10.07-17.03.54:143][819]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (866)
+[2022.10.07-17.03.54:152][819]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (864)
+[2022.10.07-17.03.54:168][819]LogModuleManager: Shutting down and abandoning module AutomationWorker (862)
+[2022.10.07-17.03.54:183][819]LogModuleManager: Shutting down and abandoning module SteamVREditor (860)
+[2022.10.07-17.03.54:183][819]LogModuleManager: Shutting down and abandoning module OculusMR (858)
+[2022.10.07-17.03.54:183][819]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (856)
+[2022.10.07-17.03.54:209][819]LogModuleManager: Shutting down and abandoning module TakeRecorder (855)
+[2022.10.07-17.03.54:220][819]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (852)
+[2022.10.07-17.03.54:224][819]LogModuleManager: Shutting down and abandoning module TakesCore (850)
+[2022.10.07-17.03.54:224][819]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2022.10.07-17.03.54:238][819]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2022.10.07-17.03.54:239][819]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (844)
+[2022.10.07-17.03.54:239][819]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (842)
+[2022.10.07-17.03.54:245][819]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (840)
+[2022.10.07-17.03.54:245][819]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (838)
+[2022.10.07-17.03.54:263][819]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (836)
+[2022.10.07-17.03.54:263][819]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (834)
+[2022.10.07-17.03.54:263][819]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (832)
+[2022.10.07-17.03.54:263][819]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (830)
+[2022.10.07-17.03.54:263][819]LogModuleManager: Shutting down and abandoning module WebMMedia (828)
+[2022.10.07-17.03.54:277][819]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.10.07-17.03.54:304][819]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (824)
+[2022.10.07-17.03.54:323][819]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (822)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module SequenceRecorder (821)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (818)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (816)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (814)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (812)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (810)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (808)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (806)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (804)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (802)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (800)
+[2022.10.07-17.03.54:350][819]LogModuleManager: Shutting down and abandoning module PlanarCut (798)
+[2022.10.07-17.03.54:366][819]LogModuleManager: Shutting down and abandoning module CharacterAI (796)
+[2022.10.07-17.03.54:366][819]LogModuleManager: Shutting down and abandoning module TextureAlignMode (794)
+[2022.10.07-17.03.54:366][819]LogModuleManager: Shutting down and abandoning module BspMode (792)
+[2022.10.07-17.03.54:379][819]LogModuleManager: Shutting down and abandoning module GeometryMode (790)
+[2022.10.07-17.03.54:390][819]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (788)
+[2022.10.07-17.03.54:402][819]LogModuleManager: Shutting down and abandoning module SmartSnapping (786)
+[2022.10.07-17.03.54:402][819]LogModuleManager: Shutting down and abandoning module BlockoutToolsEditorPlugin (784)
+[2022.10.07-17.03.54:402][819]LogModuleManager: Shutting down and abandoning module SessionServices (782)
+[2022.10.07-17.03.54:402][819]LogModuleManager: Shutting down and abandoning module MeshPaint (780)
+[2022.10.07-17.03.54:416][819]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2022.10.07-17.03.54:428][819]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2022.10.07-17.03.54:442][819]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module PlacementMode (766)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module ViewportSnapping (764)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module ViewportInteraction (762)
+[2022.10.07-17.03.54:465][819]LogModuleManager: Shutting down and abandoning module ClothPainter (760)
+[2022.10.07-17.03.54:495][819]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (759)
+[2022.10.07-17.03.54:510][819]LogModuleManager: Shutting down and abandoning module LogVisualizer (756)
+[2022.10.07-17.03.54:533][819]LogModuleManager: Shutting down and abandoning module IntroTutorials (754)
+[2022.10.07-17.03.54:543][819]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (753)
+[2022.10.07-17.03.54:556][819]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (750)
+[2022.10.07-17.03.54:556][819]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (748)
+[2022.10.07-17.03.54:567][819]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (746)
+[2022.10.07-17.03.54:573][819]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (745)
+[2022.10.07-17.03.54:871][819]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (742)
+[2022.10.07-17.03.54:871][819]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (740)
+[2022.10.07-17.03.54:871][819]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (738)
+[2022.10.07-17.03.54:871][819]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (736)
+[2022.10.07-17.03.54:871][819]LogModuleManager: Shutting down and abandoning module TraceInsights (734)
+[2022.10.07-17.03.54:908][819]MemoryProfiler: Shutdown
+[2022.10.07-17.03.54:909][819]NetworkingProfiler: Shutdown
+[2022.10.07-17.03.54:909][819]LoadingProfiler: Shutdown
+[2022.10.07-17.03.54:919][819]TimingProfiler: Shutdown
+[2022.10.07-17.03.54:933][819]LogModuleManager: Shutting down and abandoning module TraceServices (733)
+[2022.10.07-17.03.54:953][819]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (730)
+[2022.10.07-17.03.54:953][819]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (728)
+[2022.10.07-17.03.54:954][819]LogModuleManager: Shutting down and abandoning module InputBindingEditor (726)
+[2022.10.07-17.03.54:971][819]LogModuleManager: Shutting down and abandoning module MergeActors (724)
+[2022.10.07-17.03.54:982][819]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (722)
+[2022.10.07-17.03.54:993][819]LogModuleManager: Shutting down and abandoning module LocalizationService (721)
+[2022.10.07-17.03.55:002][819]LogModuleManager: Shutting down and abandoning module HardwareTargeting (718)
+[2022.10.07-17.03.55:002][819]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (716)
+[2022.10.07-17.03.55:015][819]LogModuleManager: Shutting down and abandoning module UndoHistory (714)
+[2022.10.07-17.03.55:024][819]LogModuleManager: Shutting down and abandoning module XmlParser (712)
+[2022.10.07-17.03.55:041][819]LogModuleManager: Shutting down and abandoning module Blutility (710)
+[2022.10.07-17.03.55:051][819]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (708)
+[2022.10.07-17.03.55:051][819]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (707)
+[2022.10.07-17.03.55:052][819]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (704)
+[2022.10.07-17.03.55:052][819]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (703)
+[2022.10.07-17.03.55:052][819]LogModuleManager: Shutting down and abandoning module SettingsEditor (700)
+[2022.10.07-17.03.55:072][819]LogModuleManager: Shutting down and abandoning module ProjectLauncher (698)
+[2022.10.07-17.03.55:087][819]LogModuleManager: Shutting down and abandoning module SessionFrontend (696)
+[2022.10.07-17.03.55:091][819]LogModuleManager: Shutting down and abandoning module ProfilerClient (694)
+[2022.10.07-17.03.55:104][819]LogModuleManager: Shutting down and abandoning module DeviceManager (692)
+[2022.10.07-17.03.55:119][819]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (691)
+[2022.10.07-17.03.55:152][819]LogModuleManager: Shutting down and abandoning module AutomationController (688)
+[2022.10.07-17.03.55:164][819]LogModuleManager: Shutting down and abandoning module AutomationWindow (686)
+[2022.10.07-17.03.55:178][819]LogModuleManager: Shutting down and abandoning module Layers (684)
+[2022.10.07-17.03.55:200][819]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (682)
+[2022.10.07-17.03.55:200][819]LogModuleManager: Shutting down and abandoning module DetailCustomizations (680)
+[2022.10.07-17.03.55:200][819]LogModuleManager: Shutting down and abandoning module PackagesDialog (678)
+[2022.10.07-17.03.55:200][819]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (676)
+[2022.10.07-17.03.55:216][819]LogModuleManager: Shutting down and abandoning module Persona (674)
+[2022.10.07-17.03.55:246][819]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (673)
+[2022.10.07-17.03.55:246][819]LogModuleManager: Shutting down and abandoning module AnimGraph (671)
+[2022.10.07-17.03.55:257][819]LogModuleManager: Shutting down and abandoning module Kismet (668)
+[2022.10.07-17.03.55:298][819]LogModuleManager: Shutting down and abandoning module KismetWidgets (667)
+[2022.10.07-17.03.55:298][819]LogModuleManager: Shutting down and abandoning module GraphEditor (664)
+[2022.10.07-17.03.55:298][819]LogModuleManager: Shutting down and abandoning module StructViewer (662)
+[2022.10.07-17.03.55:298][819]LogModuleManager: Shutting down and abandoning module ClassViewer (660)
+[2022.10.07-17.03.55:301][819]LogModuleManager: Shutting down and abandoning module Toolbox (658)
+[2022.10.07-17.03.55:301][819]LogModuleManager: Shutting down and abandoning module ModuleUI (656)
+[2022.10.07-17.03.55:313][819]LogModuleManager: Shutting down and abandoning module OutputLog (654)
+[2022.10.07-17.03.55:314][819]LogModuleManager: Shutting down and abandoning module GammaUI (652)
+[2022.10.07-17.03.55:328][819]LogModuleManager: Shutting down and abandoning module Documentation (650)
+[2022.10.07-17.03.55:331][819]LogModuleManager: Shutting down and abandoning module LiveCoding (648)
+[2022.10.07-17.03.55:343][819]LogModuleManager: Shutting down and abandoning module LevelSequence (646)
+[2022.10.07-17.03.55:343][819]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2022.10.07-17.03.55:343][819]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2022.10.07-17.03.55:343][819]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module AudioMixerCore (627)
+[2022.10.07-17.03.55:354][819]LogModuleManager: Shutting down and abandoning module AIModule (624)
+[2022.10.07-17.03.55:375][819]LogModuleManager: Shutting down and abandoning module GameplayDebugger (623)
+[2022.10.07-17.03.55:375][819]LogModuleManager: Shutting down and abandoning module AITestSuite (621)
+[2022.10.07-17.03.55:387][819]LogModuleManager: Shutting down and abandoning module NavigationSystem (619)
+[2022.10.07-17.03.55:387][819]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (616)
+[2022.10.07-17.03.55:392][819]LogModuleManager: Shutting down and abandoning module ProfilerService (614)
+[2022.10.07-17.03.55:618][819]LogModuleManager: Shutting down and abandoning module TaskGraph (612)
+[2022.10.07-17.03.55:643][819]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (610)
+[2022.10.07-17.03.55:643][819]LogModuleManager: Shutting down and abandoning module SubstanceEditor (608)
+[2022.10.07-17.03.55:663][819]LogModuleManager: Shutting down and abandoning module OculusEditor (606)
+[2022.10.07-17.03.55:718][819]LogModuleManager: Shutting down and abandoning module OculusInput (604)
+[2022.10.07-17.03.55:718][819]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2022.10.07-17.03.55:718][819]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2022.10.07-17.03.55:718][819]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.10.07-17.03.55:718][819]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2022.10.07-17.03.55:730][819]LogModuleManager: Shutting down and abandoning module TakeSequencer (594)
+[2022.10.07-17.03.55:730][819]LogModuleManager: Shutting down and abandoning module TakeMovieScene (592)
+[2022.10.07-17.03.55:730][819]LogModuleManager: Shutting down and abandoning module ScreenshotTools (590)
+[2022.10.07-17.03.55:730][819]LogModuleManager: Shutting down and abandoning module SynthesisEditor (588)
+[2022.10.07-17.03.55:730][819]LogModuleManager: Shutting down and abandoning module Synthesis (586)
+[2022.10.07-17.03.55:757][819]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (584)
+[2022.10.07-17.03.55:768][819]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (582)
+[2022.10.07-17.03.55:768][819]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2022.10.07-17.03.55:768][819]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2022.10.07-17.03.55:768][819]LogModuleManager: Shutting down and abandoning module GooglePAD (576)
+[2022.10.07-17.03.55:768][819]LogModuleManager: Shutting down and abandoning module EditableMesh (574)
+[2022.10.07-17.03.55:779][819]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (572)
+[2022.10.07-17.03.55:779][819]LogModuleManager: Shutting down and abandoning module CableComponent (570)
+[2022.10.07-17.03.55:779][819]LogModuleManager: Shutting down and abandoning module AudioCapture (568)
+[2022.10.07-17.03.55:779][819]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (567)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module AssetTags (564)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (562)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (560)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module AppleImageUtils (558)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module AndroidPermission (556)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (554)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (552)
+[2022.10.07-17.03.55:795][819]LogModuleManager: Shutting down and abandoning module TemplateSequence (550)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module MediaCompositing (548)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module ImgMedia (546)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (542)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (540)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (538)
+[2022.10.07-17.03.55:809][819]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (536)
+[2022.10.07-17.03.55:824][819]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (534)
+[2022.10.07-17.03.55:824][819]LogOpenImageDenoise: OIDN shutting down
+[2022.10.07-17.03.55:824][819]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (532)
+[2022.10.07-17.03.55:824][819]LogModuleManager: Shutting down and abandoning module MotoSynth (530)
+[2022.10.07-17.03.55:824][819]LogModuleManager: Shutting down and abandoning module MeshConversion (528)
+[2022.10.07-17.03.55:836][819]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2022.10.07-17.03.55:840][819]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2022.10.07-17.03.55:844][819]LogModuleManager: Shutting down and abandoning module GeometricObjects (522)
+[2022.10.07-17.03.55:853][819]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (520)
+[2022.10.07-17.03.55:853][819]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (519)
+[2022.10.07-17.03.55:853][819]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (516)
+[2022.10.07-17.03.55:853][819]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (514)
+[2022.10.07-17.03.55:853][819]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (512)
+[2022.10.07-17.03.55:863][819]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (510)
+[2022.10.07-17.03.55:863][819]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2022.10.07-17.03.55:875][819]LogModuleManager: Shutting down and abandoning module ChaosNiagara (506)
+[2022.10.07-17.03.55:884][819]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (504)
+[2022.10.07-17.03.55:889][819]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2022.10.07-17.03.55:889][819]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (501)
+[2022.10.07-17.03.55:889][819]LogModuleManager: Shutting down and abandoning module BackChannel (498)
+[2022.10.07-17.03.55:896][819]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (496)
+[2022.10.07-17.03.55:896][819]LogModuleManager: Shutting down and abandoning module AutomationUtils (494)
+[2022.10.07-17.03.55:896][819]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (492)
+[2022.10.07-17.03.55:911][819]LogModuleManager: Shutting down and abandoning module AlembicImporter (490)
+[2022.10.07-17.03.55:911][819]LogModuleManager: Shutting down and abandoning module AlembicLibrary (489)
+[2022.10.07-17.03.55:911][819]LogModuleManager: Shutting down and abandoning module GeometryCache (488)
+[2022.10.07-17.03.55:911][819]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (487)
+[2022.10.07-17.03.55:911][819]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (482)
+[2022.10.07-17.03.55:958][819]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (480)
+[2022.10.07-17.03.55:958][819]LogModuleManager: Shutting down and abandoning module PluginBrowser (478)
+[2022.10.07-17.03.55:970][819]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.10.07-17.03.55:982][819]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (474)
+[2022.10.07-17.03.55:997][819]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2022.10.07-17.03.56:011][819]LogModuleManager: Shutting down and abandoning module CurveEditorTools (470)
+[2022.10.07-17.03.56:025][819]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (468)
+[2022.10.07-17.03.56:025][819]LogModuleManager: Shutting down and abandoning module CryptoKeys (466)
+[2022.10.07-17.03.56:025][819]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (464)
+[2022.10.07-17.03.56:025][819]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (462)
+[2022.10.07-17.03.56:033][819]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2022.10.07-17.03.56:033][819]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (458)
+[2022.10.07-17.03.56:033][819]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (456)
+[2022.10.07-17.03.56:050][819]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (454)
+[2022.10.07-17.03.56:050][819]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2022.10.07-17.03.56:055][819]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (450)
+[2022.10.07-17.03.56:077][819]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2022.10.07-17.03.56:084][819]LogModuleManager: Shutting down and abandoning module GitSourceControl (446)
+[2022.10.07-17.03.56:088][819]LogModuleManager: Shutting down and abandoning module SourceControl (445)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (436)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (434)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (432)
+[2022.10.07-17.03.56:096][819]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (430)
+[2022.10.07-17.03.56:109][819]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (428)
+[2022.10.07-17.03.56:109][819]LogModuleManager: Shutting down and abandoning module LiveLink (426)
+[2022.10.07-17.03.56:594][819]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2022.10.07-17.03.56:594][819]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2022.10.07-17.03.56:607][819]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2022.10.07-17.03.56:637][819]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2022.10.07-17.03.56:646][819]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2022.10.07-17.03.56:665][819]LogModuleManager: Shutting down and abandoning module BlockoutToolsPlugin (414)
+[2022.10.07-17.03.56:665][819]LogModuleManager: Shutting down and abandoning module SoundFields (412)
+[2022.10.07-17.03.56:665][819]LogModuleManager: Shutting down and abandoning module SignificanceManager (410)
+[2022.10.07-17.03.56:665][819]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2022.10.07-17.03.56:665][819]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (406)
+[2022.10.07-17.03.56:688][819]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (404)
+[2022.10.07-17.03.56:688][819]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (400)
+[2022.10.07-17.03.56:688][819]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (398)
+[2022.10.07-17.03.56:704][819]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (396)
+[2022.10.07-17.03.56:704][819]LogModuleManager: Shutting down and abandoning module UdpMessaging (394)
+[2022.10.07-17.03.56:805][819]LogModuleManager: Shutting down and abandoning module TcpMessaging (392)
+[2022.10.07-17.03.56:913][819]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.10.07-17.03.56:913][819]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (388)
+[2022.10.07-17.03.56:913][819]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2022.10.07-17.03.56:913][819]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2022.10.07-17.03.56:913][819]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2022.10.07-17.03.56:913][819]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2022.10.07-17.03.56:923][819]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2022.10.07-17.03.56:935][819]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.10.07-17.03.56:935][819]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2022.10.07-17.03.56:936][819]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2022.10.07-17.03.56:936][819]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2022.10.07-17.03.56:941][819]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2022.10.07-17.03.56:941][819]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2022.10.07-17.03.56:941][819]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2022.10.07-17.03.56:941][819]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2022.10.07-17.03.56:941][819]LogModuleManager: Shutting down and abandoning module SubstanceCore (362)
+[2022.10.07-17.03.56:955][819]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.10.07-17.03.56:955][819]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.10.07-17.03.56:955][819]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.10.07-17.03.56:972][819]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.10.07-17.03.56:972][819]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.10.07-17.03.56:982][819]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.10.07-17.03.56:982][819]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.10.07-17.03.56:991][819]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.10.07-17.03.56:991][819]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.10.07-17.03.56:991][819]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.10.07-17.03.56:991][819]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.10.07-17.03.56:998][819]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.10.07-17.03.57:024][819]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.10.07-17.03.57:037][819]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.10.07-17.03.57:037][819]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.10.07-17.03.57:038][819]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.10.07-17.03.57:043][819]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.10.07-17.03.57:043][819]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.10.07-17.03.57:043][819]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.10.07-17.03.57:043][819]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.10.07-17.03.57:055][819]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.10.07-17.03.57:055][819]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.10.07-17.03.57:055][819]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.10.07-17.03.57:055][819]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.10.07-17.03.57:055][819]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.10.07-17.03.57:068][819]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.10.07-17.03.57:083][819]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.10.07-17.03.57:090][819]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.10.07-17.03.57:103][819]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.10.07-17.03.57:103][819]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.10.07-17.03.57:103][819]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.10.07-17.03.57:103][819]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.10.07-17.03.57:118][819]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.10.07-17.03.57:118][819]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.10.07-17.03.57:118][819]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.10.07-17.03.57:118][819]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.10.07-17.03.57:141][819]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.10.07-17.03.57:162][819]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.10.07-17.03.57:162][819]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.10.07-17.03.57:186][819]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.10.07-17.03.57:199][819]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.10.07-17.03.57:221][819]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.10.07-17.03.57:221][819]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.10.07-17.03.57:234][819]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.10.07-17.03.57:256][819]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.10.07-17.03.57:256][819]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.10.07-17.03.57:290][819]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.10.07-17.03.57:290][819]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.10.07-17.03.57:291][819]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.10.07-17.03.57:291][819]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.10.07-17.03.57:291][819]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.10.07-17.03.57:291][819]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.10.07-17.03.57:291][819]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.10.07-17.03.57:291][819]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.10.07-17.03.57:304][819]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.10.07-17.03.57:304][819]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.10.07-17.03.57:304][819]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.10.07-17.03.57:323][819]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.10.07-17.03.57:332][819]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.10.07-17.03.57:332][819]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.10.07-17.03.57:332][819]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.10.07-17.03.57:334][819]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.10.07-17.03.57:334][819]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.10.07-17.03.57:348][819]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.10.07-17.03.57:362][819]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.10.07-17.03.57:371][819]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.10.07-17.03.57:371][819]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.10.07-17.03.57:387][819]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.10.07-17.03.57:405][819]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.10.07-17.03.57:419][819]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.10.07-17.03.57:435][819]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.10.07-17.03.57:448][819]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.10.07-17.03.57:448][819]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.10.07-17.03.57:457][819]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.10.07-17.03.57:471][819]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.10.07-17.03.57:491][819]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.10.07-17.03.57:502][819]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.10.07-17.03.57:503][819]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.10.07-17.03.57:509][819]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.10.07-17.03.57:522][819]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.10.07-17.03.57:522][819]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.10.07-17.03.57:522][819]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.10.07-17.03.57:522][819]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.10.07-17.03.57:523][819]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.10.07-17.03.57:536][819]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.10.07-17.03.57:539][819]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.10.07-17.03.57:539][819]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.10.07-17.03.57:539][819]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.10.07-17.03.57:539][819]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.10.07-17.03.57:539][819]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.10.07-17.03.57:550][819]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.10.07-17.03.57:550][819]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.10.07-17.03.57:550][819]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.10.07-17.03.57:550][819]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.10.07-17.03.57:550][819]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.10.07-17.03.57:554][819]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.10.07-17.03.57:554][819]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.10.07-17.03.57:554][819]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.10.07-17.03.57:555][819]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.10.07-17.03.57:555][819]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.10.07-17.03.57:562][819]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.10.07-17.03.57:562][819]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.10.07-17.03.57:562][819]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.10.07-17.03.57:562][819]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.10.07-17.03.57:563][819]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.10.07-17.03.57:563][819]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.10.07-17.03.57:563][819]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.10.07-17.03.57:563][819]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.10.07-17.03.57:563][819]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.10.07-17.03.57:567][819]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.10.07-17.03.57:582][819]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.10.07-17.03.57:582][819]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.10.07-17.03.57:582][819]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.10.07-17.03.57:582][819]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.10.07-17.03.57:582][819]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.10.07-17.03.57:583][819]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.10.07-17.03.57:583][819]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.10.07-17.03.57:596][819]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.10.07-17.03.57:605][819]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.10.07-17.03.57:618][819]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.10.07-17.03.57:628][819]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.10.07-17.03.57:628][819]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.10.07-17.03.57:628][819]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.10.07-17.03.57:644][819]LogHMD: Freeing OpenVRDLLHandle.
+[2022.10.07-17.03.57:644][819]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.10.07-17.03.57:649][819]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.10.07-17.03.57:662][819]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.07-17.03.57:663][819]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.10.07-17.03.57:663][819]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.10.07-17.03.57:675][819]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.10.07-17.03.57:675][819]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.10.07-17.03.57:710][819]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.10.07-17.03.57:710][819]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.10.07-17.03.57:714][819]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.10.07-17.03.57:715][819]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2022.10.07-17.03.57:715][819]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.10.07-17.03.57:732][819]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.10.07-17.03.57:758][819]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.10.07-17.03.57:812][819]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.10.07-17.03.57:812][819]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.10.07-17.03.57:819][819]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B519E45ED-4A33-57F3-C75E-948F5447DFC1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=842341464f0f2bb3195c6f9a2906bd92%7C95cdf2316d5b4191bb5474859e0b95a5%7Cd848793b-6267-49e8-9916-be05c97f0392&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.10.07-17.03.57:819][819]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.10.07-17.03.57:829][819]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.10.07-17.03.57:831][819]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.10.07-17.03.57:846][819]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.10.07-17.03.57:847][819]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.10.07-17.03.57:847][819]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.10.07-17.03.57:855][819]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.10.07-17.03.57:866][819]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.10.07-17.03.57:866][819]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.10.07-17.03.57:877][819]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.10.07-17.03.57:877][819]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.10.07-17.03.57:877][819]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.10.07-17.03.57:877][819]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.10.07-17.03.57:878][819]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.10.07-17.03.57:891][819]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.10.07-17.03.57:891][819]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.10.07-17.03.57:891][819]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.10.07-17.03.57:891][819]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.10.07-17.03.57:900][819]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.10.07-17.03.57:900][819]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.10.07-17.03.57:900][819]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.10.07-17.03.57:913][819]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.10.07-17.03.57:922][819]LogXGEController: Cleaning working directory: C:/Users/karlo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.10.07-17.03.57:923][819]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.10.07-17.03.57:932][819]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.10.07-17.03.57:953][819]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.10.07-17.03.57:963][819]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.10.07-17.03.57:963][819]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.10.07-17.03.57:963][819]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.10.07-17.03.57:963][819]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.10.07-17.03.57:979][819]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.07-17.03.58:002][819]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.07-17.03.58:015][819]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.07-17.03.58:016][819]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.07-17.03.58:016][819]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.10.07-17.03.58:026][819]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.10.07-17.03.58:026][819]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.10.07-17.03.58:041][819]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.10.07-17.03.58:054][819]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.10.07-17.03.58:054][819]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.10.07-17.03.58:067][819]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.10.07-17.03.58:120][819]LogD3D11RHI: Shutdown
+[2022.10.07-17.03.58:120][819]LogD3D11RHI: CleanupD3DDevice
+[2022.10.07-17.03.58:182][819]LogExit: Exiting.
+[2022.10.07-17.03.58:193][819]Log file closed, 10/07/22 18:03:58
